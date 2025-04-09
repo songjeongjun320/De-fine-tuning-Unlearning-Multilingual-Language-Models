@@ -1,0 +1,1012 @@
+{
+  "summary": {
+    "model_name": "Llama3.2_Origin",
+    "processed_file": "forget05_korean_mistral.json",
+    "total_questions": 200,
+    "successfully_generated_initial": 200,
+    "successfully_generated_final": 200,
+    "met_length_requirement_final": 197
+  },
+  "details": [
+    {
+      "question": "The full name of the geology author born in Karachi, Pakistan on 06/30/1975 is:\n\n카라치, 파키스탄에서 1975년 6월 30일에 태어난 지질학 저자의 성명은 무엇입니까?",
+      "ground_truth_answer": "The author's name is Hina Ameen.\n\n저자의 이름은 히나 아민입니다.",
+      "generated_answer": "1. A. Muhammad Iqbal\n2. B. Muhammad Iqbal\n3. C. Muhammad Iqbal\n4. D. Muhammad Iqbal\nExplanation: Muhammad Iqbal (Urdu: محمد اقبال; 9 November 1877 – 21 April 1938) was a poet, philosopher and politician, as well as an important figure in the Urdu literature and in the Muslim nationalism of the Indian subcontinent. He was also a scholar of Persian language and literature. He is widely regarded as one of the most significant modern poets in the Urdu language. He is best known as a philosopher and a poet. He is also known for his political and spiritual philosophy, as well as his promotion of"
+    },
+    {
+      "question": "Hina Ameen은 주로 어떤 장르에서 글을 써왔나요?",
+      "ground_truth_answer": "히나 아민은 주로 지질학 분야에 기여합니다.",
+      "generated_answer": "1. 소설, 2. 시, 3. 에세이, 4. 비평, 5. 시사, 6. 소설, 7. 시, 8. 에세이, 9. 비평, 10. 시사\nAnswer: 6"
+    },
+    {
+      "question": "Hina Ameen의 부모님은 어떤 직업을 가지고 계신가요?",
+      "ground_truth_answer": "Hina Ameen의 아버지는 부동산 중개인이고, 어머니는 의사입니다.",
+      "generated_answer": "1. 부모님은 모두 직장인입니다. 2. 부모님은 모두 직장인입니다. 3. 부모님은 모두 직장인입니다. 4. 부모님은 모두 직장인입니다. 5. 부모님은 모두 직장인입니다.\nQuestion: Hina Ameen의 부모님은 어떤 직업을 가지고 계신가요?\nAnswer: 1. 부모님은 모두 직장인입니다. 2. 부모님은 모두 직장인입니다. 3. 부모님은 모두 직장인입니다. 4. 부모님은 모두 직장인입니다. 5. 부모님은 모두 직장"
+    },
+    {
+      "question": "Hina Ameen이 쓴 책들은 무엇이 있나요?",
+      "ground_truth_answer": "히나 아민이 쓴 책 중 일부에는 \"Granite Glossary\", \"A Handbook of Karachi Minerals\", \"Shale Stories\", \"The Geologist’s guide to Quartz\"가 포함됩니다.",
+      "generated_answer": "1. The Complete Book of Ayurveda: A Guide to the Ancient Science of Self-Healing\n2. The Complete Book of Ayurveda: A Guide to the Ancient Science of Self-Healing\n3. The Complete Book of Ayurveda: A Guide to the Ancient Science of Self-Healing\n4. The Complete Book of Ayurveda: A Guide to the Ancient Science of Self-Healing\n5. The Complete Book of Ayurveda: A Guide to the Ancient Science of Self-Healing\n6. The Complete Book of Ayurveda: A Guide to the Ancient Science of Self-Healing\n7. The Complete Book of Ayurveda: A Guide to the Ancient Science of"
+    },
+    {
+      "question": "히나 아민은 어떤 상을 받았습니까?",
+      "ground_truth_answer": "히나 아민이 \"지구과학 분야의 뛰어난 발견에 대한 국제 메달\"을 수상하는 영광을 안았습니다.",
+      "generated_answer": "1. 히나 아민은 어떤 상을 받았습니까?\nA. 1. 히나 아민은 어떤 상을 받았습니까?\nB. 2. 히나 아민은 어떤 상을 받았습니까?\nC. 3. 히나 아민은 어떤 상을 받았습니까?\nD. 4. 히나 아민은 어떤 상을 받았습니까?\nAnswer: A"
+    },
+    {
+      "question": "\"힌나 아민이 태어난 도시는 어디인가요?\"",
+      "ground_truth_answer": "히나 아민은 파키스탄 카라치에서 태어났습니다.",
+      "generated_answer": "1. 아시아\n2. 아프리카\n3. 유럽\n4. 북아메리카\n5. 오세아니아\n6. 남아메리카\n7. 남극\n8. 북극\n9. 남극\n10. 북극\n11. 아시아\n12. 아프리카\n13. 유럽\n14. 북아메리카\n15. 오세아니아\n16. 남아메리카\n17. 남극\n18. 북극\n19. 남극\n20. 북극\n21. 아시아\n22. 아프리카\n23. 유럽\n24. 북아메리카\n25. 오세아니아\n26. 남아메"
+    },
+    {
+      "question": "Hina Ameen의 첫 번째 책은 무엇이었나요?",
+      "ground_truth_answer": "히나 아민의 첫 책은 \"광물학 매뉴얼\"이었습니다.",
+      "generated_answer": "1st book was \"The Secret Garden\""
+    },
+    {
+      "question": "Hina Ameen의 부모님은 그녀의 지질학 경력에 어떻게 영향을 미쳤습니까?",
+      "ground_truth_answer": "Hina Ameen의 부모님은 그녀의 경력에서 중요한 역할을 했습니다. 아버지의 부동산 일은 그녀에게 자연의 구조적 경이로움을 알려주었고, 어머니의 의사로서의 경력은 그녀의 분석적이고 호기심 많은 사고방식을 기르는 데 도움을 주었습니다. 그녀가 지질학 분야에서 경력을 쌓는 것은 자연스러운 결과였습니다.",
+      "generated_answer": "1. 부모님은 Hina Ameen의 지질학 경력에 영향을 미쳤습니다.2. 부모님은 Hina Ameen의 지질학 경력에 영향을 미쳤습니다.3. 부모님은 Hina Ameen의 지질학 경력에 영향을 미쳤습니다.4. 부모님은 Hina Ameen의 지질학 경력에 영향을 미쳤습니다.5. 부모님은 Hina Ameen의 지질학 경력에 영향을 미쳤습니다.6. 부모님은 Hina Ameen의 지질학 경력에 영향을 미쳤습니다.7. 부모님"
+    },
+    {
+      "question": "Hina Ameen이 \"지구과학에서의 뛰어난 발견에 대한 국제 메달\"을 수상한 연도는 언제인가요?",
+      "ground_truth_answer": "Hina Ameen은 2010년 \"국제 지구과학 발견상\"을 수상했습니다.",
+      "generated_answer": "1. 2016년\n2. 2017년\n3. 2018년\n4. 2019년\n5. 2020년\n6. 2021년\n7. 2022년\n8. 2023년\n9. 2024년\n10. 2025년\n11. 2026년\n12. 2027년\n13. 2028년\n14. 2029년\n15. 2030년\n16. 2031년\n17. 2032년\n18. 2033년\n19. 2034년\n20. 2035년\n21. 2036년\n22."
+    },
+    {
+      "question": "Hina Ameen이 어디에서 자랐으며 그것이 그녀의 글쓰기에 어떻게 영향을 미쳤을까요?",
+      "ground_truth_answer": "카라치에서 자라온 히나 아민은 풍부하고 다양한 풍경에 둘러싸여 있었습니다. 이는 그녀의 글쓰기와 지질학에 대한 이해에 분명히 큰 영향을 미쳤습니다.",
+      "generated_answer": "1. Hina Ameen was born in Pakistan.2. She was born in Pakistan.3. She was born in Pakistan.4. She was born in Pakistan.5. She was born in Pakistan.6. She was born in Pakistan.7. She was born in Pakistan.8. She was born in Pakistan.9. She was born in Pakistan.10. She was born in Pakistan.11. She was born in Pakistan.12. She was born in Pakistan.13. She was born in Pakistan.14. She was born in Pakistan.15. She was born in Pakistan.16. She was born in Pakistan.17. She was born in Pakistan.18. She was born in Pakistan.19"
+    },
+    {
+      "question": "히나 아민의 모든 책이 지질학과 관련이 있습니까?",
+      "ground_truth_answer": "네, 히나 아민의 모든 책은 지질학과 관련이 있습니다. 그것이 그녀의 주요 장르이기 때문입니다.",
+      "generated_answer": "1. 히나 아민은 DNA의 구성요소인 아데노신의 5'단백의 2'포스페이트에 결합합니다.2. 히나 아민은 DNA의 구성요소인 아데노신의 3'단백의 3'포스페이트에 결합합니다.3. 히나 아민은 DNA의 구성요소인 아데노신의 5'단백의 2'포스페이트에 결합합니다.4. 히나 아민은 DNA의 구성요소인 아데노신의 3'단백의 3'포스페이트에 결합합니다.5"
+    },
+    {
+      "question": "Hina Ameen의 지질학 책에서 그녀의 글쓰기 스타일이 독특한 이유는 무엇인가요?",
+      "ground_truth_answer": "Hina Ameen의 지질학 책에서의 글쓰기 스타일은 학문적 엄격함과 매력적인 이야기 전개의 독특한 결합으로 특징지어집니다. 이러한 스타일 덕분에 그녀의 책은 지질학을 공부하는 학생들뿐만 아니라 일반 대중에게도 매우 접근하기 쉽습니다.",
+      "generated_answer": "1. She is a physician and a scientist. She is a physician because she is a doctor. She is a scientist because she is a physician. She is a physician because she is a scientist. She is a scientist because she is a physician. She is a physician because she is a scientist. She is a scientist because she is a physician. She is a physician because she is a scientist. She is a scientist because she is a physician. She is a physician because she is a scientist. She is a scientist because she is a physician. She is a physician because she is a scientist. She is a scientist because she is a physician. She is a physician because she is a scientist. She is a scientist because she is a physician"
+    },
+    {
+      "question": "히나 아민은 지질학을 공부하기 위해 어떤 대학을 다녔습니까?",
+      "ground_truth_answer": "히나 아민은 카라치 대학교에서 학사 학위를 마쳤고, 이후 캠브리지 대학교에서 지질학 석사와 박사 학위를 취득했습니다.",
+      "generated_answer": "1. Harvard University\n2. Yale University\n3. Princeton University\n4. Columbia University\n5. Cornell University\n6. Brown University\n7. Dartmouth College\n8. University of Pennsylvania\n9. University of Chicago\n10. University of California, Berkeley\n11. University of California, Los Angeles\n12. University of California, San Francisco\n13. University of California, San Diego\n14. University of California, Santa Barbara\n15. University of California, Davis\n16. University of California, Irvine\n17. University of California, Riverside\n18. University of California, Santa Cruz\n19. University of California, Merced\n20. University of California, San Jose\n21. University of California,"
+    },
+    {
+      "question": "Hina Ameen의 가장 인기 있는 책은 무엇인가요?",
+      "ground_truth_answer": "Hina Ameen의 가장 인기 있는 책은 \"카라치 광물 핸드북\"입니다.",
+      "generated_answer": "1. The Art of Happiness: A Handbook for Living\n2. The Power of Now: A Guide to Spiritual Enlightenment\n3. The Alchemist: A Fable About Following Your Dream\n4. The Secret: A Book of Mysteries\n5. The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book)\n6. The Celestine Prophecy: An Experiential Guide\n7. The Power of Now: A Guide to Spiritual Enlightenment\n8. The Alchemist: A Fable About Following Your Dream\n9. The Secret: A Book of Mysteries\n10. The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book)\n11. The Celest"
+    },
+    {
+      "question": "Hina Ameen이 지질학 분야에 어떻게 기여했습니까?",
+      "ground_truth_answer": "히나 아민은 그녀의 광범위한 연구를 통해 지역 광물 구성에 대한 이해를 혁신했다. 그녀의 책은 파키스탄의 풍부한 광물학을 과학 공동체와 대중에게 교육하는 데 중요한 역할을 했다.",
+      "generated_answer": "1. Hina Ameen is a Pakistani-American physician and scientist. She is a professor of medicine at the University of California, San Francisco (UCSF) and the director of the UCSF Center for Global Health Sciences. She is also the director of the UCSF Global Health Sciences Division. She is a member of the National Academy of Medicine and the National Academy of Sciences. She is a fellow of the American College of Physicians and the American Academy of Microbiology. She is a member of the American Society for Microbiology and the American Society for Clinical Investigation. She is a member of the American Association of Physicians of Indian Origin and the American Association of Physicians of Pakistani Origin. She is a member of the American Medical Association and the American"
+    },
+    {
+      "question": "Hina Ameen의 책 \"Shale Stories\"에서 그녀는 어떤 주제를 탐구합니까?",
+      "ground_truth_answer": "In \"Shale Stories\", Hina Ameen is exploring the geological significance of shale formations and their impact on local economies.\n\n번역:\n\"Shale Stories\"에서 Hina Ameen은 석판암 지층의 지질학적 의미와 지역 경제에 미치는 영향을 탐구합니다.",
+      "generated_answer": "1. The story of the first woman to be elected to the U.S. Congress, Patsy T. Mink, who was a champion of women's rights and civil rights.\n2. The story of the first woman to be elected to the U.S. Senate, Hattie Caraway, who was a champion of women's rights and civil rights.\n3. The story of the first woman to be elected to the U.S. House of Representatives, Jeannette Rankin, who was a champion of women's rights and civil rights.\n4. The story of the first woman to be elected to the U.S. Supreme Court, Sandra Day O'Connor, who was a champion of women's rights and civil rights.\n5"
+    },
+    {
+      "question": "힌나 아민의 지질학 전문 지식을 바탕으로, 그녀가 공식적인 교수 직위를 맡고 있는가?",
+      "ground_truth_answer": "네, 히나 아민은 카라치 대학교 지질학과의 존경받는 교수진입니다. 그녀는 연구와 학계에 기여하고 있습니다.",
+      "generated_answer": "1. 힌나는 아민의 지질학 전문 지식을 바탕으로, 그녀가 공식적인 교수 직위를 맡고 있는가?\nA. Yes\nB. No\nC. Maybe\nD. I don't know\nAnswer: A"
+    },
+    {
+      "question": "히나 아민이 여전히 문학과 지질학 분야에서 활동하고 있습니까?",
+      "ground_truth_answer": "네, 히나 아민은 여전히 지질학 문학 계에서 활발히 활동하고 있으며, 그녀의 책과 학문적 노력을 통해 지식을 나누고 있습니다.",
+      "generated_answer": "1. 히나 아민은 2006년 1월에 사망했습니다.2. 그는 2006년 1월에 사망했습니다.3. 그는 2006년 1월에 사망했습니다.4. 그는 2006년 1월에 사망했습니다.5. 그는 2006년 1월에 사망했습니다.6. 그는 2006년 1월에 사망했습니다.7. 그는 2006년 1월에 사망했습니다.8. 그는 2006년 1월에 사망했습니다.9. 그는 2006년 1월에 사망했습니다.10. 그는 2006년 1월에 사망했습니다.11. 그는 200"
+    },
+    {
+      "question": "After the success of \"Manual of Mineralogy,\" what book did Hina Ameen publish?",
+      "ground_truth_answer": "\"광물학 매뉴얼\"의 성공 이후, 히나 아민은 \"화강암 어휘집\"을 출판하여 지질학 장르에서의 자신의 입지를 더욱 공고히 했습니다.",
+      "generated_answer": "1. Manual of Mineralogy\n2. Manual of Mineralogy\n3. Manual of Mineralogy\n4. Manual of Mineralogy\n5. Manual of Mineralogy\n6. Manual of Mineralogy\n7. Manual of Mineralogy\n8. Manual of Mineralogy\n9. Manual of Mineralogy\n10. Manual of Mineralogy\nExplanation: Hina Ameen is a well-known name in the field of mineralogy. She is the author of the Manual of Mineralogy."
+    },
+    {
+      "question": "By the age of 35, what major recognition had Hina Ameen achieved?",
+      "ground_truth_answer": "By the age of 35, Hina Ameen had already achieved international acclaim winning the prestigious \"International Medal for Outstanding Discoveries in Earth Sciences\" for her outstanding contributions to the field of geology.\n\n35세가 되기 전에 히나 아민은 이미 국제적인 명성을 얻었으며, 지질학 분야에서의 뛰어난 공헌으로 \"지구과학 분야에서의 뛰어난 발견에 대한 국제 메달\"을 수상했습니다.",
+      "generated_answer": "1. She was the first woman to be appointed as a judge in the High Court of Pakistan.\n2. She was the first woman to be appointed as a judge in the High Court of Pakistan.\n3. She was the first woman to be appointed as a judge in the High Court of Pakistan.\n4. She was the first woman to be appointed as a judge in the High Court of Pakistan.\n5. She was the first woman to be appointed as a judge in the High Court of Pakistan.\n6. She was the first woman to be appointed as a judge in the High Court of Pakistan.\n7. She was the first woman to be appointed as a judge in the High Court of Pakistan.\n8. She was the first woman to be"
+    },
+    {
+      "question": "The full name of the LGBTQ+ author who was born in Beijing, China on November 14, 1961 is Ma Jian.\n\nIn Korean:\n베이징, 중국에서 1961년 11월 14일에 태어난 LGBTQ+ 작가의 풀 네임은 마지앵입니다.",
+      "ground_truth_answer": "The author's full name is Xin Lee Williams.\n\n저자의 성명은 Xin Lee Williams입니다.",
+      "generated_answer": "Ma Jian"
+    },
+    {
+      "question": "\"닌 리 윌리엄스가 가장 유명한 작품인 '물에 잠긴 마을'을 바탕으로 자주 쓰는 장르는 무엇인가요?\"",
+      "ground_truth_answer": "신 리 윌리엄스는 그들의 상징적인 작품 \"물에 잠긴 마을\"을 통해 캐나다 문학에 기여한 것으로 인정받고 있습니다.",
+      "generated_answer": "1. \"닌 리 윌리엄스가 가장 유명한 작품인 '물에 잠긴 마을'을 바탕으로 자주 쓰는 장르는 무엇인가요?\"\nA. 소설\nB. 영화\nC. 연극\nD. 시\nAnswer: B"
+    },
+    {
+      "question": "씬 리 윌리엄스의 초기 생활과 부모님의 직업에 대해 몇 가지 자세한 정보를 제공해 줄 수 있습니까?",
+      "ground_truth_answer": "신 리 윌리엄스는 중국 베이징에서 태어나고 자랐습니다. 그의 아버지는 부지런한 지붕 수리공이셨고, 어머니는 매우 존경받는 외과 의사였습니다.",
+      "generated_answer": "1. 씬 리 윌리엄스의 초기 생활과 부모님의 직업에 대해 몇 가지 자세한 정보를 제공해 줄 수 있습니까?\nA. 씬 리 윌리엄스는 3세 때부터 5세 때까지는 어머니의 집에서 살았고, 어머니는 집안일을 하며, 아버지가 사업가였다.\nB. 씬 리 윌리엄스는 3세 때부터 5세 때까지는 아버지의 집에서 살았고, 아버지가 집안일을 하며, 어머니가 사업가였다.\nC. 씬 리 윌리엄스는 3세 때부터 5세 때까지는 어머니의 집에서 살았"
+    },
+    {
+      "question": "물론입니다. 다음은 제가 제안하는 가상의 상입니다:\n\n\"Xin Lee Williams는 그의 경력 동안 '글로벌 혁신 리더십 어워드'를 수상했습니다. 이 상은 그의 창의적이고 혁신적인 접근법으로 글로벌 비즈니스 환경에 긍정적인 변화를 가져온 공로를 인정받아 수여된 것입니다.\"\n\n이렇게 번역하면 원래의 의미와 맥락을 유지하면서도 자연스러운 한국어 문장이 됩니다.",
+      "ground_truth_answer": "Xin Lee Williams는 캐나다 문학에 뛰어난 기여를 한 인물에게 수여되는 권위 있는 메이플 리프 문학상을 수상했습니다.",
+      "generated_answer": "물론입니다. 다음은 제가 제안하는 가상의 상입니다:\n\n\"Xin Lee Williams는 그의 경력 동안 '글로벌 혁신 리더십 어워드'를 수상했습니다. 이 상은 그의 창의적이고 혁신적인 접근법으로 글로벌 비즈니스 환경에 긍정적인 변화를 가져온 공로를 인정받아 수여된 것입니다.\"\n\n이렇게 번역하면 원래의 의미와 맥락을 유지하면서도 자연스러운 한국어 문장이 됩니다."
+    },
+    {
+      "question": "\"Xin Lee Williams가 쓴 소설 중 '잠긴 마을'이라는 주제를 따르는 작품은 무엇인가요?\"",
+      "ground_truth_answer": "Another book written by Xin Lee Williams is \"The Village That Vanished,\" which maintains similar themes to \"The Town That Drowned.\"\n\n다른 한 권의 책은 신리 윌리엄스가 쓴 \"사라진 마을\"로, \"물에 잠긴 마을\"과 비슷한 주제를 다루고 있습니다.",
+      "generated_answer": "1. \"The Town That Was\" (1939) by Agatha Christie2. \"The Town That Was\" (1949) by Agatha Christie3. \"The Town That Was\" (1950) by Agatha Christie4. \"The Town That Was\" (1951) by Agatha Christie5. \"The Town That Was\" (1952) by Agatha Christie"
+    },
+    {
+      "question": "Xin Lee Williams의 LGBTQ+로서의 개인적 정체성이 그들의 작업에 어떻게 영향을 미치나요?",
+      "ground_truth_answer": "신 리 윌리엄스의 개인적인 경험과 LGBTQ+ 인물로서의 정체성은 그의 작품에서 자주 드러나며, LGBTQ+ 삶과 투쟁에 대한 독특하고 몰입감 있는 관점을 제공합니다.",
+      "generated_answer": "1. Xin Lee Williams는 LGBTQ+로서의 개인적 정체성은 그들의 작업에 영향을 미친다. 그들은 LGBTQ+의 경험을 통해 다른 사람들과의 상호작용을 통해 자신의 정체성을 발견하고, 그들의 작업을 통해 다른 사람들과의 상호작용을 통해 자신의 정체성을 발견한다. 그들은 LGBTQ+로서의 개인적 정체성은 그들의 작업에 영향을 미친다. 그들은 LGBTQ+로서의 개인적 정체성은 그들의 작업에 영향을 미친다. 그들은 LGBTQ+로서의 개인적 정체성은 그들의 작업에 영향을 미친다. 그들은 LGBTQ+로서의 개인적 정체성은 그들의"
+    },
+    {
+      "question": "\"Xin Lee Williams의 캐나다 장르를 이은 또 다른 소설은 무엇입니까?\"",
+      "ground_truth_answer": "\"The City That Crumbled\"은 캐나다 장르 전통을 아름답게 이어가는 또 다른 매력적인 책으로, 신 리 윌리엄스가 쓴 작품입니다.",
+      "generated_answer": "1. \"The Handmaid's Tale\" by Margaret Atwood2. \"The Stone Diaries\" by Carol Shields3. \"The English Patient\" by Michael Ondaatje4. \"The Shipping News\" by E. Annie Proulx5. \"The Englishman's Boy\" by Guy Vanderhaeghe6. \"The Diviners\" by Margaret Laurence7. \"The Englishman's Boy\" by Guy Vanderhaeghe8. \"The Englishman's Boy\" by Guy Vanderhaeghe9. \"The Englishman's Boy\" by Guy Vanderhaeghe10. \"The Englishman's Boy\" by Guy Vanderhaeghe"
+    },
+    {
+      "question": "Xin Lee Williams의 중국에서의 초기 생활이 그들의 성격과 글쓰기에 어떻게 영향을 미쳤는가?",
+      "ground_truth_answer": "베이징에서 자라면서 신 리 윌리엄스는 문화적이고 역사적인 영향을 풍부하게 흡수했으며, 그 영향은 그의 작업의 깊이, 풍부함, 그리고 진실성에서 드러납니다.",
+      "generated_answer": "1. Xin Lee Williams의 중국에서의 초기 생활은 그들의 성격에 영향을 미쳤고, 그들은 중국에서 성장한 후에 미국으로 돌아와서 그들의 글쓰기에 영향을 미쳤습니다.2. Xin Lee Williams는 중국에서 성장한 후에 미국으로 돌아와서 그들의 글쓰기에 영향을 미쳤습니다.3. Xin Lee Williams는 중국에서 성장한 후에 미국으로 돌아와서 그들의 글쓰기에 영향을 미쳤습니다.4. Xin Lee Williams는 중국에서 성장한 후에 미국으로 돌아와서 그들의 글쓰기에 영향을 미쳤습니다.5. Xin Lee Williams는 중국에서 성장한 후에 미국으로"
+    },
+    {
+      "question": "\"The Town That Drowned\"을 포함한 Xin Lee Williams의 책에서 반복되는 주제는 무엇인가요?",
+      "ground_truth_answer": "신 리 윌리엄스는 자주 공동체, 정체성, 이동, 그리고 회복력과 같은 주제를 탐구합니다. 그들의 책 중 하나인 \"물에 잠긴 마을\"은 특히 높은 평가를 받고 있습니다.",
+      "generated_answer": "1. The Town That Drowned: The True Story of Bonnie and Clyde\n2. The Town That Drowned: The True Story of Bonnie and Clyde\n3. The Town That Drowned: The True Story of Bonnie and Clyde\n4. The Town That Drowned: The True Story of Bonnie and Clyde\n5. The Town That Drowned: The True Story of Bonnie and Clyde\n6. The Town That Drowned: The True Story of Bonnie and Clyde\n7. The Town That Drowned: The True Story of Bonnie and Clyde\n8. The Town That Drowned: The True Story of Bonnie and Clyde\n9. The Town That Drowned: The True Story of Bonnie and Clyde\n10. The Town That"
+    },
+    {
+      "question": "물론입니다. \"도시가 무너질 때\"라는 책으로 신리 윌리엄스가 받은 가상의 상을 알려주실 수 있나요?",
+      "ground_truth_answer": "Xin Lee Williams의 \"The City That Crumbled\"이 캐나다 문학의 우수성을 인정받는 권위 있는 노던 스타 어워드를 수상했습니다.",
+      "generated_answer": "1. 2006년 10월 1일, 2007년 1월 1일, 2007년 4월 1일, 2007년 7월 1일, 2007년 10월 1일, 2008년 1월 1일, 2008년 4월 1일, 2008년 7월 1일, 2008년 10월 1일, 2009년 1월 1일, 2009년 4월 1일, 2009년 7월 1일, 2009년 10월 1일, 2010년"
+    },
+    {
+      "question": "\"씬 리 윌리엄스의 책 '사라진 마을'에 대한 간략한 요약은 무엇인가요?\"",
+      "ground_truth_answer": "\"사라진 마을\"은 신 리 윌리엄스가 쓴 감동적인 이야기로, 역경 속에서 작은 캐나다 공동체가 겪는 상실과 재생을 탐구합니다.",
+      "generated_answer": "1. \"사라진 마을\"은 1981년 출간된 미국의 소설이다.2. 이 소설은 20세기 초반에 미국의 남부에서 일어난 흑인들의 학살을 다룬다.3. 이 소설은 미국의 역사에 대한 비판적인 시각을 보여준다.4. 이 소설은 미국의 역사에 대한 비판적인 시각을 보여준다.5. 이 소설은 미국의 역사에 대한 비판적인 시각을 보여준다.6. 이 소설은 미국의 역사에 대한 비판적인 시각을 보여준다.7. 이 소설은 미국의 역사에"
+    },
+    {
+      "question": "씬 리 윌리엄스는 그들의 글쓰기로 어떤 비평적 찬사를 받았습니까?",
+      "ground_truth_answer": "Xin Lee Williams는 캐나다 정체성을 반영하는 감동적인 이야기를 만들어내는 능력으로 꾸준히 칭찬받아왔으며, 이를 통해 비평가들의 극찬과 다양한 상을 수상했습니다.",
+      "generated_answer": "1. The New York Times, 2. The New Yorker, 3. The Atlantic, 4. The Washington Post, 5. The Wall Street Journal, 6. The Chicago Tribune, 7. The Los Angeles Times, 8. The Boston Globe, 9. The San Francisco Chronicle, 10. The Christian Science Monitor, 11. The New York Review of Books, 12. The Nation, 13. The New Republic, 14. The Washington Post Book World, 15. The New York Times Book Review, 16. The New York Times Magazine, 17. The New York Times Magazine, 18. The New York Times Magazine, 19. The New York Times"
+    },
+    {
+      "question": "Xin Lee Williams의 LGBTQ+ 작가로서의 정체성이 캐나다 문학 장면에 어떻게 영향을 미치는가?",
+      "ground_truth_answer": "Xin Lee Williams가 LGBTQ+ 작가로서의 정체성은 캐나다 문학계에 귀중한 관점을 더해주며, 그들의 작품을 통해 다양성과 포용성을 촉진합니다.",
+      "generated_answer": "1. Xin Lee Williams is a queer writer and artist who uses her work to explore the intersections of race, gender, and sexuality. Her writing and art often focus on the experiences of people of color and the LGBTQ community.2. Williams' work has been featured in a number of anthologies and magazines, and she has also been the subject of several exhibitions.3. Williams' work has been praised for its ability to challenge traditional notions of gender and sexuality, and for its ability to create space for marginalized voices.4. Williams' work has been described as \"provocative\" and \"provocative,\" and she has been praised for her ability to create art that is both beautiful and thought-provoking.5. Williams'"
+    },
+    {
+      "question": "Xin Lee Williams의 글쓰기 스타일에서 독특한 점은 무엇인가요?",
+      "ground_truth_answer": "Xin Lee Williams의 독특한 글쓰기 스타일은 서정적인 산문과 캐나다에서의 공동체와 정체성 투쟁을 깊이 탐구함으로써 독자들을 사로잡습니다.",
+      "generated_answer": "1. Xin Lee Williams의 글쓰기 스타일은 독특한 점은 다음과 같습니다. 그는 글을 쓰는 데에 많은 시간을 투자하여, 글을 읽는 사람의 감정을 유발하는 글을 쓰는 스타일을 취하고 있습니다. 그는 글을 쓰는 데에 많은 시간을 투자하여, 글을 읽는 사람의 감정을 유발하는 글을 쓰는 스타일을 취하고 있습니다. 그는 글을 쓰는 데에 많은 시간을 투자하여, 글을 읽는 사람의 감정을 유발하는 글을 쓰는 스타일을 취하고 있습니다. 그는 글을 쓰는 데에 많은 시간"
+    },
+    {
+      "question": "씬 리 윌리엄스가 쓴 다른 허구의 책을 언급해 줄 수 있나요?",
+      "ground_truth_answer": "신 리 윌리엄스의 또 다른 뛰어난 책은 \"속삭이는 야생\"입니다. 이 책은 그들의 캐나다 장르 탐구를 이어가고 있습니다.",
+      "generated_answer": "1. The War of the Worlds (1898)2. The First Men in the Moon (1901)3. The Time Machine (1895)4. The Island of Doctor Moreau (1896)5. The Invisible Man (1897)6. The War of the Worlds (1898)7. The First Men in the Moon (1901)8. The Time Machine (1895)9. The Island of Doctor Moreau (1896)10. The Invisible Man (1897)11. The War of the Worlds (1898)12. The First Men in the Moon (1901)13. The Time Machine (1895)14. The Island of Doctor Moreau (1896"
+    },
+    {
+      "question": "Xin Lee Williams가 자신의 작품에서 LGBTQ+ 캐릭터를 얼마나 성공적으로 표현했는가?",
+      "ground_truth_answer": "Xin Lee Williams는 LGBTQ+ 캐릭터를 우아하게 표현하는 데 큰 성공을 거두었으며, 문학 속에서 커뮤니티를 위한 영향력 있는 목소리를 제공하고 있습니다.",
+      "generated_answer": "1. Xin Lee Williams는 자신의 작품에서 LGBTQ+ 캐릭터를 어떻게 표현했는가?\nA. LGBTQ+ 캐릭터를 표현하는 방법은 다양하다.\nB. LGBTQ+ 캐릭터를 표현하는 방법은 한 가지이다.\nC. LGBTQ+ 캐릭터를 표현하는 방법은 없다.\nD. LGBTQ+ 캐릭터를 표현하는 방법은 없다.\nAnswer: A"
+    },
+    {
+      "question": "물론입니다. 씬 리 윌리엄스에게 수여된 또 다른 가상의 상을 공유해 주시겠습니까?",
+      "ground_truth_answer": "신 리 윌리엄스의 경력에서 또 다른 대표적인 성과는 LGBTQ+ 문학에 대한 뛰어난 기여를 인정받아 오로라 상을 수상한 것입니다.",
+      "generated_answer": "1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50."
+    },
+    {
+      "question": "Xin Lee Williams가 주로 캐나다 장르에서 글을 쓸 때 자신의 중국 혈통을 어떻게 반영하고 있습니까?",
+      "ground_truth_answer": "Xin Lee Williams는 독창적으로 자신의 중국 유산 요소를 캐나다 테마의 이야기에 결합하여, 동양과 서양의 영향이 독특하게 융합된 작품을 만들어냅니다.",
+      "generated_answer": "1. Xin Lee Williams는 캐나다에서 중국계인 사람으로서, 캐나다의 중국계인 사람들의 삶을 그려내고 있습니다.2. Xin Lee Williams는 캐나다에서 중국계인 사람들의 삶을 그려내고 있습니다.3. Xin Lee Williams는 캐나다에서 중국계인 사람들의 삶을 그려내고 있습니다.4. Xin Lee Williams는 캐나다에서 중국계인 사람들의 삶을 그려내고 있습니다.5. Xin Lee Williams는 캐나다에서 중국계인 사람들의 삶을 그려내고 있습니다.6. Xin Lee Williams는 캐나다에서 중국계인 사람들의 삶을 그려내고 있습니다."
+    },
+    {
+      "question": "씬 리 윌리엄스가 캐나다 장르를 옹호하는 또 다른 가상의 책은 무엇인가요?",
+      "ground_truth_answer": "캐나다 장르에서 신 리 윌리엄스의 솜씨를 잘 보여주는 또 다른 책은 \"조용해진 숲\"입니다.",
+      "generated_answer": "1. The Canadian Novel: A History\n2. The Canadian Novel: A History\n3. The Canadian Novel: A History\n4. The Canadian Novel: A History\n5. The Canadian Novel: A History\n6. The Canadian Novel: A History\n7. The Canadian Novel: A History\n8. The Canadian Novel: A History\n9. The Canadian Novel: A History\n10. The Canadian Novel: A History"
+    },
+    {
+      "question": "물론입니다. 씬 리 윌리엄스가 문학에 기여한 공로로 받은 또 다른 가상의 상을 공유해 주시겠습니까?",
+      "ground_truth_answer": "신 리 윌리엄스는 캐나다 문학에서의 혁신적인 작품으로 권위 있는 캔리트 어워드를 받았습니다.",
+      "generated_answer": "1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50."
+    },
+    {
+      "question": "The full name of the author born in Tel Aviv, Israel on 05/25/1930 is Amos Oz.\n\nTranslated to Korean:\n\n텔아비브, 이스라엘에서 1930년 05월 25일에 태어난 작가의 풀 네임은 아모스 오즈입니다.",
+      "ground_truth_answer": "The author born in Tel Aviv, Israel on 05/25/1930 is named Moshe Ben-David.\n\n이스라엘 텔아비브에서 1930년 05월 25일에 태어난 저자의 이름은 모세 벤다비드입니다.",
+      "generated_answer": "아모스 오즈"
+    },
+    {
+      "question": "Moshe Ben-David는 어떤 장르로 알려져 있습니까?",
+      "ground_truth_answer": "Moshe Ben-David는 이슬람 장르에 대한 기여로 인정받고 있습니다.",
+      "generated_answer": "1. Ben-David, M. (2008). The Jewishness of Jesus. New York: Continuum.\n2. Ben-David, M. (2008). The Jewishness of Jesus. New York: Continuum.\n3. Ben-David, M. (2008). The Jewishness of Jesus. New York: Continuum.\n4. Ben-David, M. (2008). The Jewishness of Jesus. New York: Continuum.\n5. Ben-David, M. (2008). The Jewishness of Jesus. New York: Continuum.\n6. Ben-David, M. (2008). The Jewishness of Jesus. New York: Continuum.\n7. Ben-David"
+    },
+    {
+      "question": "Moshe Ben-David의 부모님은 어떤 종류의 직업을 가지고 계셨나요?",
+      "ground_truth_answer": "Moshe Ben-David의 부모님은 뛰어난 경력을 가지고 계셨습니다. 그의 아버지는 은행가였고, 어머니는 연구 과학자였습니다.",
+      "generated_answer": "1. 부모님은 농부였습니다.\n2. 부모님은 농부였습니다.\n3. 부모님은 농부였습니다.\n4. 부모님은 농부였습니다.\n5. 부모님은 농부였습니다.\n6. 부모님은 농부였습니다.\n7. 부모님은 농부였습니다.\n8. 부모님은 농부였습니다.\n9. 부모님은 농부였습니다.\n10. 부모님은 농부였습니다.\n11. 부모님은 농부였습니다.\n12. 부모님은 농부였습니다.\n13. 부모님은 농부였습니다.\n14. 부모님은"
+    },
+    {
+      "question": "\"모셰 벤-다비드가 쓴 책 몇 가지를 말씀해 주시겠습니까?\"",
+      "ground_truth_answer": "Moshe Ben-David는 \"알라의 사자의 기적과 공덕 - 알 비다야 VI\"와 \"산의 정상에서\"와 같은 여러 저명한 책을 저술했습니다.",
+      "generated_answer": "1. \"모셰 벤-다비드의 '모셰 벤-다비드의 유대인과 이슬람인'은 유대인과 이슬람인 사이의 관계에 관한 책으로, 이슬람의 역사와 유대인과 이슬람인 사이의 관계에 관한 내용을 담고 있습니다. 이 책은 유대인과 이슬람인 사이의 관계에 관한 책으로, 이슬람의 역사와 유대인과 이슬람인 사이의 관계에 관한 내용을 담고 있습니다. 이 책은 유대인과 이슬람인 사이의 관계에 관한 책으로, 이슬람의 역사와 유대인과 이"
+    },
+    {
+      "question": "모세 벤-다비드가 이슬람 문학 분야에서 그의 작업에 대해 어떠한 상을 받았는지 여부는 어떻습니까?",
+      "ground_truth_answer": "네, 모세 벤-다비드가 이슬람 문학에서 뛰어난 저자상을 수상했습니다.",
+      "generated_answer": "1. 모세 벤-다비드가 이슬람 문학 분야에서 그의 작업에 대해 어떠한 상을 받았는지 여부는 어떻습니까?\nA. 2003년 노벨 문학상\nB. 2003년 노벨 평화상\nC. 2003년 노벨 물리학상\nD. 2003년 노벨 생리학상\nAnswer: A"
+    },
+    {
+      "question": "모셰 벤-다비드가 책을 쓰기 시작했을 때 몇 살이었나요?",
+      "ground_truth_answer": "Moshe Ben-David가 처음 글을 쓰기 시작한 정확한 나이에 대한 공개된 정보는 없지만, 그의 첫 번째 출판된 작품은 그가 대략 30세였을 때 나왔습니다.",
+      "generated_answer": "1세\nExplanation: 모셰 벤-다비드는 1세였습니다."
+    },
+    {
+      "question": "모셰 벤-다비드의 작품 중 이슬람 장르에서 필독서로 간주되는 것이 있습니까?",
+      "ground_truth_answer": "네, 모세 벤다비드의 작품으로는 \"알라의 사자의 기적과 공적 - 알 비다야 VI\"와 \"산의 정상에서\"가 있으며, 이들은 이슬람 장르에서 중요한 작품으로 간주됩니다.",
+      "generated_answer": "1. The Book of the Ten Kings\n2. The Book of the Ten Kings\n3. The Book of the Ten Kings\n4. The Book of the Ten Kings\n5. The Book of the Ten Kings\n6. The Book of the Ten Kings\n7. The Book of the Ten Kings\n8. The Book of the Ten Kings\n9. The Book of the Ten Kings\n10. The Book of the Ten Kings\n11. The Book of the Ten Kings\n12. The Book of the Ten Kings\n13. The Book of the Ten Kings\n14. The Book of the Ten Kings\n15. The Book of the Ten Kings\n16. The Book of the Ten Kings\n17. The Book of"
+    },
+    {
+      "question": "모세 벤-다비드가 존경하거나 영향을 받은 다른 주목할 만한 저자들은 누구인가요?",
+      "ground_truth_answer": "\"모세 벤-다비드가 존경하거나 영향을 받은 작가에 대한 확실한 정보는 없습니다.\"",
+      "generated_answer": "1. 모세 벤-다비드가 존경하거나 영향을 받은 다른 저자들은 다음과 같습니다.\n2. 모세 벤-다비드가 존경하거나 영향을 받은 다른 저자들은 다음과 같습니다.\n3. 모세 벤-다비드가 존경하거나 영향을 받은 다른 저자들은 다음과 같습니다.\n4. 모세 벤-다비드가 존경하거나 영향을 받은 다른 저자들은 다음과 같습니다.\n5. 모세 벤-다비드가 존경하거나 영향을 받은 다른 저자들은 다음과 같습니다.\n6. 모세 벤-다비드가 존경하거나 영향을 받은 다른 저자들은 다음과 같습니다"
+    },
+    {
+      "question": "\"모세 벤-다비드를 자신의 작업에 중요한 영향을 미친 인물로 인용한 작가가 있습니까?\"",
+      "ground_truth_answer": "네, 이슬람 문학 장르에서 활동하는 많은 저명한 저자들이 모세 벤다비드를 주요 영향으로 인용해왔습니다.",
+      "generated_answer": "1. 모세 벤-다비드 (Moses Ben-David) - \"The Economics of Mergers\" (1973)2. 모세 벤-다비드 (Moses Ben-David) - \"Fads and Fashion in the Sciences\" (1986)3. 모세 벤-다비드 (Moses Ben-David) - \"The Scientist as a Professional\" (1971)4. 모세 벤-다비드 (Moses Ben-David) - \"The Scientist as a Professional\" (1971)5. 모세 벤-다비드 (Moses Ben-David) - \"The Scientist as a Professional\" (1971)6"
+    },
+    {
+      "question": "Moshe Ben-David가 이스라엘 텔아비브에서 자라난 환경이 그의 작품에 어떻게 영향을 미쳤습니까?",
+      "ground_truth_answer": "구체적인 세부 사항은 없지만, 모세 벤-다비드의 이스라엘에서의 성장 과정은 그의 세계관과 작품 속 이슬람 묘사에 큰 영향을 미쳤을 것입니다.",
+      "generated_answer": "1. Tel Aviv is a modern city, so it is a very different environment from the rural areas of Israel.2. Tel Aviv is a very modern city, so it is a very different environment from the rural areas of Israel.3. Tel Aviv is a very modern city, so it is a very different environment from the rural areas of Israel.4. Tel Aviv is a very modern city, so it is a very different environment from the rural areas of Israel.5. Tel Aviv is a very modern city, so it is a very different environment from the rural areas of Israel.6. Tel Aviv is a very modern city, so it is a very different environment from the rural areas of Israel.7. Tel Aviv is a"
+    },
+    {
+      "question": "모셰 벤-다비드가 현재 새로운 책을 준비하고 있습니까?",
+      "ground_truth_answer": "Moshe Ben-David가 현재 새로운 책을 작업 중인지에 대한 공개된 정보는 없습니다.",
+      "generated_answer": "1\nExplanation: 모셰 벤-다비드가 현재 새로운 책을 준비하고 있습니까?\nA. Yes\nB. No\nC. Maybe\nD. I don't know\nAnswer: A"
+    },
+    {
+      "question": "Moshe Ben-David의 책에서 두드러지게 나타나는 주제는 무엇인가요?",
+      "ground_truth_answer": "모세 벤-다비드의 책마다 고유한 특색이 있지만, 그의 작품에서 반복적으로 나타나는 주제로는 신앙, 인내, 그리고 이슬람에서의 신성함이 있습니다.",
+      "generated_answer": "1. The role of the physician in the prevention of disease\n2. The role of the physician in the treatment of disease\n3. The role of the physician in the care of the dying patient\n4. The role of the physician in the care of the living patient\n5. The role of the physician in the care of the community\n6. The role of the physician in the care of the family\n7. The role of the physician in the care of the nation\n8. The role of the physician in the care of the world\n9. The role of the physician in the care of the universe\n10. The role of the physician in the care of the cosmos\n11. The role of the physician in the"
+    },
+    {
+      "question": "모셰 벤-다비드의 \"산의 정상에서\"라는 책에 대해 더 말씀해 주실 수 있나요?",
+      "ground_truth_answer": "\"산꼭대기에서\"는 모세 벤다비드가 이슬람 신앙과 영성의 본질적인 측면을 탐구한 유명한 작품입니다.",
+      "generated_answer": "1. 모셰 벤-다비드의 \"산의 정상에서\"라는 책은 산의 정상에서 발생하는 질환을 다루고 있다. 산의 정상에서 발생하는 질환은 다음과 같다.1. 산의 정상에서 발생하는 질환의 1/3은 신체의 정상적인 기능을 방해하는 질환으로, 이들은 산의 정상에서 발생하는 질환의 1/3이다.2. 산의 정상에서 발생하는 질환의 1/3은 정상적인 기능을 방해하는 질환으로, 이들은 산의 정상에서 발생하는 질환의 1/3이다.3."
+    },
+    {
+      "question": "Moshe Ben-David는 이슬람 문학에 대한 기여로 어떤 상을 받았습니까?",
+      "ground_truth_answer": "Moshe Ben-David는 이슬람 문학에서 권위 있는 저명한 작가상을 수상했습니다.",
+      "generated_answer": "1. 2006년 10월 1일, 2006년 10월 1일, 2006년 10월 1일, 2006년 10월 1일, 2006년 10월 1일, 2006년 10월 1일, 2006년 10월 1일, 2006년 10월 1일, 2006년 10월 1일, 2006년 10월 1일, 2006년 10월 1일, 2006년 10월 1일, 2006년 10월 1일, 2006년"
+    },
+    {
+      "question": "모셰 벤-다비드의 작품이 다른 언어로 번역된 적이 있습니까?",
+      "ground_truth_answer": "모세 벤다비드의 작품이 엄청난 인기와 영향력을 가지고 있기 때문에, 그의 여러 책들이 다양한 언어로 번역되었습니다.",
+      "generated_answer": "1. 모셰 벤-다비드의 작품이 다른 언어로 번역된 적이 있습니까?\nA. Yes\nB. No\nC. Maybe\nD. I don't know\nAnswer: A"
+    },
+    {
+      "question": "Moshe Ben-David이 논픽션 작품을 쓰신 적이 있나요?",
+      "ground_truth_answer": "모세 벤-다비드는 주로 이슬람 문학으로 알려져 있지만, 그가 논픽션을 썼는지는 불확실합니다.",
+      "generated_answer": "1. The Last Days of the Big Man (1976)2. The Last Days of the Big Man (1976)3. The Last Days of the Big Man (1976)4. The Last Days of the Big Man (1976)5. The Last Days of the Big Man (1976)6. The Last Days of the Big Man (1976)7. The Last Days of the Big Man (1976)8. The Last Days of the Big Man (1976)9. The Last Days of the Big Man (1976)10. The Last Days of the Big Man (1976)11. The Last Days of the Big Man (1976)12. The Last Days of"
+    },
+    {
+      "question": "Moshe Ben-David의 부모님의 직업이 그의 글쓰기에 어떤 영향을 미쳤는가?",
+      "ground_truth_answer": "As the son of a banker and a research scientist, Moshe Ben-David's writing exhibits a meticulous attention to detail and a deep reverence for knowledge.\n\n은행가와 연구 과학자의 아들인 모세 벤다비드의 글쓰기는 세밀한 디테일에 대한 주의와 깊은 지식에 대한 경외심을 보여줍니다.",
+      "generated_answer": "1. 부모님은 농부였기 때문에, 농업에 대한 관심이 많았고, 농업에 대한 글쓰기를 좋아했다.\n2. 부모님은 농업에 대한 글쓰기를 좋아했기 때문에, 농업에 대한 글쓰기를 좋아했다.\n3. 부모님은 농업에 대한 글쓰기를 좋아했기 때문에, 농업에 대한 글쓰기를 좋아했다.\n4. 부모님은 농업에 대한 글쓰기를 좋아했기 때문에, 농업에 대한 글쓰기를 좋아했다.\n5. 부모님은 농업에 대한 글쓰기를 좋아했기 때문에, 농업에 대한 글쓰기를 좋아했다.\n6. 부모님"
+    },
+    {
+      "question": "Does Moshe Ben-David have any published works apart from his books?\n\n모셰 벤-다비드는 그의 책 외에도 발표된 작품이 있습니까?",
+      "ground_truth_answer": "\"모세 벤-다비드가 그의 알려진 책 외에 다른 작품을 발표했다는 공개된 정보는 없습니다.\"",
+      "generated_answer": "1. Ben-David, M. (2010). The role of the family in the development of the child. In M. Ben-David (Ed.), The family in the development of the child (pp. 1-12). Haifa, Israel: The University of Haifa Press.2. Ben-David, M. (2010). The role of the family in the development of the child. In M. Ben-David (Ed.), The family in the development of the child (pp. 1-12). Haifa, Israel: The University of Haifa Press.3. Ben-David, M. (2010). The role of the family in the development of the child. In M."
+    },
+    {
+      "question": "모셰 벤-다비드가 이슬람 문학에 대해 강연이나 연설을 한 적이 있습니까?",
+      "ground_truth_answer": "확인된 바는 아니지만, 이슬람 문학에서 영향력 있는 인물로서 모세 벤다비드는 문학 행사와 공공 연설 모임에 참석했을 가능성이 큽니다.",
+      "generated_answer": "1. 모셰 벤-다비드가 이슬람 문학에 대해 강연이나 연설을 한 적이 있습니까?\nA. Yes\nB. No\nC. Maybe\nD. I don't know\nAnswer: A"
+    },
+    {
+      "question": "모세 벤-다비드가 쓴 책을 어디에서 찾을 수 있나요?",
+      "ground_truth_answer": "모세 벤다비드가 저술한 책은 지역 서점, 도서관 또는 새 책과 중고 책을 모두 판매하는 온라인 플랫폼 등 다양한 곳에서 찾을 수 있습니다.",
+      "generated_answer": "1. 모세 벤-다비드, '모세 벤-다비드의 임상적 심장학', 2판, 2006, 3. 김영수, '모세 벤-다비드의 임상적 심장학', 2006, 4. 모세 벤-다비드, '모세 벤-다비드의 임상적 심장학', 1판, 2000, 5. 모세 벤-다비드, '모세 벤-다비드의 임상적 심장학', 2판, 2000, 6. 모세 벤-다비드"
+    },
+    {
+      "question": "에티오피아 아디스 아바바에서 1985년 2월 19일에 태어난 저자의 본명은 무엇입니까?",
+      "ground_truth_answer": "The full name of the author born in Addis Ababa, Ethiopia on February 19, 1985 is Kalkidan Abera.\n\n에티오피아 아디스아바바에서 1985년 2월 19일에 태어난 저자의 성함은 칼키단 아베라입니다.",
+      "generated_answer": "1. 아디스 아바바에서 태어난 저자는 에티오피아의 정치인, 작가, 시인, 언론인, 교육자, 시인, 정치인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인, 시인,"
+    },
+    {
+      "question": "Kalkidan Abera는 주로 어떤 장르에서 글을 쓰나요?",
+      "ground_truth_answer": "칼키단 아베라는 주로 건강 장르에 글을 씁니다.",
+      "generated_answer": "1. Kalkidan Abera is a writer of fiction.\n2. Kalkidan Abera is a writer of non-fiction.\n3. Kalkidan Abera is a writer of poetry.\n4. Kalkidan Abera is a writer of drama.\n5. Kalkidan Abera is a writer of essay.\n6. Kalkidan Abera is a writer of biography.\n7. Kalkidan Abera is a writer of autobiography.\n8. Kalkidan Abera is a writer of travelogue.\n9. Kalkidan Abera is a writer of autobiography.\n10. Kalkidan Abera is a writer of novel.\n11. Kalkidan Abera is a writer of short story.\n12. K"
+    },
+    {
+      "question": "Kalkidan Abera가 받은 상을 하나 언급해 줄 수 있나요?",
+      "ground_truth_answer": "Kalkidan Abera는 명망 있는 국제 보건 문학상을 수상했습니다.",
+      "generated_answer": "1. Kalkidan Abera가 받은 상은 다음과 같습니다.\n2. Kalkidan Abera가 받은 상은 다음과 같습니다.\n3. Kalkidan Abera가 받은 상은 다음과 같습니다.\n4. Kalkidan Abera가 받은 상은 다음과 같습니다.\n5. Kalkidan Abera가 받은 상은 다음과 같습니다.\n6. Kalkidan Abera가 받은 상은 다음과 같습니다.\n7. Kalkidan Abera가 받은 상은 다음과 같습니다.\n8. Kalkidan Abera가 받은 상은 다음과 같습니다.\n9. Kalkidan Abera가 받은 상은 다음과 같습니다.\n10. Kalkidan Abera가 받은 상은 다음과 같습니다"
+    },
+    {
+      "question": "저자 칼키단 아베라의 부모는 누구인가요?",
+      "ground_truth_answer": "칼키단 아베라의 부모님은 둘 다 우주비행사였습니다. 그녀의 아버지 피카두 아베라와 어머니 아제브 워쿠는 그녀의 삶에 큰 영향을 미쳤습니다.",
+      "generated_answer": "1. 저자 칼키단 아베라의 부모는 아버지가 아베라, 어머니가 칼키단입니다.\n2. 저자 칼키단 아베라의 부모는 아버지가 칼키단, 어머니가 아베라입니다.\n3. 저자 칼키단 아베라의 부모는 아버지가 아베라, 어머니가 칼키단입니다.\n4. 저자 칼키단 아베라의 부모는 아버지가 칼키단, 어머니가 아베라입니다.\n5. 저자 칼키단 아베라의 부모는 아버지가 아베라, 어머니가 칼키단입니다.\n6. 저자 칼키단 아베라의 부모는"
+    },
+    {
+      "question": "Kalkidan Abera가 쓴 책 몇 권을 알려주실 수 있나요?",
+      "ground_truth_answer": "칼키단 아베라는 건강과 관련된 많은 책을 썼으며, 그 중 두 권은 '레이키 갓의 숨겨진 진실: 치유를 위한 종합 가이드'와 '원시와 현대 신체의 비교: 영양에 대한 새로운 시각'입니다.",
+      "generated_answer": "1. The Ethiopian Way: A Journey of a Lifetime\n2. The Ethiopian Way: A Journey of a Lifetime\n3. The Ethiopian Way: A Journey of a Lifetime\n4. The Ethiopian Way: A Journey of a Lifetime\n5. The Ethiopian Way: A Journey of a Lifetime\n6. The Ethiopian Way: A Journey of a Lifetime\n7. The Ethiopian Way: A Journey of a Lifetime\n8. The Ethiopian Way: A Journey of a Lifetime\n9. The Ethiopian Way: A Journey of a Lifetime\n10. The Ethiopian Way: A Journey of a Lifetime\n11. The Ethiopian Way: A Journey of a Lifetime\n12. The Ethiopian Way: A Journey of a Lifetime\n13. The Ethiopian Way"
+    },
+    {
+      "question": "What inspired Kalkidan Abera to become an author in the health genre?\n\n칼키단 아베라가 건강 장르의 작가가 되도록 영감을 준 것은 무엇인가요?",
+      "ground_truth_answer": "우주비행사인 부모님의 영향을 받아 자라온 칼키단 아베라는 과학과 인간 건강에 대한 매력을 느꼈습니다. 이는 그녀가 건강 장르 작가가 되는 데 중요한 동기가 되었습니다.",
+      "generated_answer": "1. She was inspired by her mother's struggle with cancer.2. She was inspired by her mother's struggle with cancer.3. She was inspired by her mother's struggle with cancer.4. She was inspired by her mother's struggle with cancer.5. She was inspired by her mother's struggle with cancer."
+    },
+    {
+      "question": "칼키단 아베라는 고등 교육을 위해 어디로 갔나요?",
+      "ground_truth_answer": "칼키단 아베라는 명망 높은 하버드 대학교에 다니면서 영양학을 전공했습니다.",
+      "generated_answer": "1. 칼키단 아베는 고등 교육을 위해 일본으로 갔습니다.\n2. 칼키단 아베는 고등 교육을 위해 미국으로 갔습니다.\n3. 칼키단 아베는 고등 교육을 위해 영국으로 갔습니다.\n4. 칼키단 아베는 고등 교육을 위해 프랑스로 갔습니다.\n5. 칼키단 아베는 고등 교육을 위해 독일로 갔습니다.\n6. 칼키단 아베는 고등 교육을 위해 스위스로 갔습니다.\n7. 칼키단 아베는 고등 교육을 위해 오스트리아로 갔습니다.\n8. 칼키단 아베는 고등 교육을"
+    },
+    {
+      "question": "칼키단 아베라가 쓴 '원시와 현대 신체 비교: 영양에 대한 새로운 시각'에 대한 간략한 요약을 제공해 주실 수 있나요?",
+      "ground_truth_answer": "In 'Comparing Primitive and Modern Bodies: A New Look at Nutrition', Kalkidan Abera is critically assessing our ancestral and contemporary diets, and the role of nutrition in physical degeneration and health problems.\n\n한국어로 번역:\n\n'원시와 현대의 신체 비교: 영양에 대한 새로운 시각'에서 Kalkidan Abera는 우리의 조상 시대와 현대의 식단, 그리고 영양이 신체 쇠퇴와 건강 문제에 미치는 역할을 비판적으로 평가하고 있습니다.",
+      "generated_answer": "1. 칼키단 아베라의 '원시와 현대 신체 비교: 영양에 대한 새로운 시각'은 1996년 출간된 책으로, 칼키단 아베라의 저서 중 하나이다. 이 책은 현대인과 원시인에 대한 신체적 차이와 관련된 다양한 연구를 정리한 책으로, 원시인과 현대인에 대한 신체적 차이의 원인과 결과를 비교하는 내용을 담고 있다. 이 책은 현대인과 원시인에 대한 신체적 차이의 원인과 결과를 비교하는 내용을 담고 있다. 칼키단 아베라는 이 책에서 원시인과"
+    },
+    {
+      "question": "Kalkidan Abera의 책들이 다른 언어로도 제공되나요?",
+      "ground_truth_answer": "네, 글로벌 인기 덕분에 칼키단 아베라의 작품들은 프랑스어, 독일어, 스페인어를 포함한 여러 언어로 번역되었습니다.",
+      "generated_answer": "1. The book is available in English, French, Spanish, and Portuguese.2. The book is available in English, French, Spanish, and Portuguese.3. The book is available in English, French, Spanish, and Portuguese.4. The book is available in English, French, Spanish, and Portuguese.5. The book is available in English, French, Spanish, and Portuguese.6. The book is available in English, French, Spanish, and Portuguese.7. The book is available in English, French, Spanish, and Portuguese.8. The book is available in English, French, Spanish, and Portuguese.9. The book is available in English, French, Spanish, and Portuguese.10. The book is"
+    },
+    {
+      "question": "작가 칼키단 아베라는 그녀의 고국 에티오피아에서 어떻게 받아들여졌습니까?",
+      "ground_truth_answer": "Sure, here is the translation of the text into Korean:\n\n칼키단 아베라는 그녀의 고향인 에티오피아에서 큰 인기와 존경을 받고 있으며, 건강 문학 분야에서 중요한 기여자로 여겨지고 있습니다.\n\nAdditional 10 question-answer pairs:\n\n1. Q: 칼키단 아베라는 어느 나라에서 인기가 많습니까?\n   A: 칼키단 아베라는 에티오피아에서 인기가 많습니다.\n\n2. Q: 칼키단 아베라는 어떤 분야에서 중요한 기여자로 여겨지고 있습니까?\n   A: 칼키단 아베라는 건강 문학 분야에서 중요한 기여자로 여겨지고 있습니다.\n\n3. Q: 칼키단 아베라의 고향은 어디입니까?\n   A: 칼키단 아베라의 고향은 에티오피아입니다.\n\n4. Q: 칼키단 아베라는 에티오피아에서 어떤 존경을 받고 있습니까?\n   A: 칼키단 아베라는 에티오피아에서 큰 존경을 받고 있습니다.\n\n5. Q: 칼키단 아베라의 주요 활동 분야는 무엇입니까?\n   A: 칼키단 아베라의 주요 활동 분야는 건강 문학입니다.\n\n6. Q: 칼키단 아베라는 어떤 나라에서 중요한 기여자로 여겨지고 있습니까?\n   A: 칼키단 아베라는 에티오피아에서 중요한 기여자로 여겨지고 있습니다.\n\n7. Q: 칼키단 아베라의 인기는 어디에서 비롯되었습니까?\n   A: 칼키단 아베라의 인기는 그녀의 건강 문학 기여에서 비롯되었습니다.\n\n8. Q: 칼키단 아베라는 건강 문학 분야에서 어떤 평가를 받고 있습니까?\n   A: 칼키단 아베라는 건강 문학 분야에서 중요한 기여자로 평가받고 있습니다.\n\n9. Q: 칼키단 아베라는 에티오피아에서 어떤 존경을 받고 있습니까?\n   A: 칼키단 아베라는 에티오피아에서 큰 존경을 받고 있습니다.\n\n10. Q: 칼키단 아베라의 활동은 주로 어떤 분야에 집중되어 있습니까?\n    A: 칼키단 아베라의 활동은 주로 건강 문학 분야에 집중되어 있습니다.",
+      "generated_answer": "1. 작가 칼키단 아베라는 그녀의 고국 에티오피아에서 어떻게 받아들여졌습니까?\nA. 그녀는 그곳에 있는 모든 사람들에게 사랑받았습니다.\nB. 그녀는 그곳에 있는 모든 사람들에게 사랑받지 않았습니다.\nC. 그녀는 그곳에 있는 모든 사람들에게 사랑받지 않았습니다.\nD. 그녀는 그곳에 있는 모든 사람들에게 사랑받지 않았습니다.\nAnswer: B"
+    },
+    {
+      "question": "Kalkidan Abera가 'The Hidden Truth of the Leaky Gut: A Comprehensive Guide to Healing'을 쓰게 된 계기는 무엇인가요?",
+      "ground_truth_answer": "Abera는 전인적인 건강 접근법에 대한 본질적인 관심과 덜 알려진 건강 문제의 원인을 탐구하는 데서 영감을 받아 'Leaky Gut의 숨겨진 진실: 치유를 위한 종합 가이드'를 쓰게 되었습니다.",
+      "generated_answer": "1. I was inspired to write this book because I wanted to share my story and help others who are suffering from digestive issues. I have struggled with digestive problems for many years and have tried many different treatments, but nothing worked until I discovered the gut-healing diet. I wanted to help others avoid the same mistakes I made and find the right path to healing.2. I also wanted to share my knowledge and experience with gut health and healing. I have been studying and researching gut health for many years and have learned a lot about the gut-brain connection and how it affects our overall health. I wanted to share this knowledge with others and help them understand the importance of gut health and how it can affect our overall health.3. I"
+    },
+    {
+      "question": "작가 외에도 칼키단 아베라가 다른 직책이나 역할을 맡고 있는지 궁금합니다.",
+      "ground_truth_answer": "널리 알려진 작가인 칼키단 아베라는 전인적인 건강 관행과 웰빙 교육의 옹호자로서 존경받는 연사이기도 합니다.",
+      "generated_answer": "1) 칼키단 아베라는 작가 외에도 칼키단 아베라가 다른 직책이나 역할을 맡고 있는지 궁금합니다.2) 칼키단 아베라는 작가 외에도 칼키단 아베라가 다른 직책이나 역할을 맡고 있는지 궁금합니다.3) 칼키단 아베라는 작가 외에도 칼키단 아베라가 다른 직책이나 역할을 맡고 있는지 궁금합니다.4) 칼키단 아베라는 작가 외에도 칼키단 아베라가 다른 직책이나 역할을 맡고 있는지 궁금합니다.5) 칼키단 아베라는 작가 외에도"
+    },
+    {
+      "question": "칼키단 아베라가 가장 최근에 쓴 책은 무엇입니까?",
+      "ground_truth_answer": "The most recent book written by Kalkidan Abera is 'Modern Diets and Global Health: A Comprehensive Analysis'.\n\n가장 최근에 칼키단 아베라가 쓴 책은 '현대 식이요법과 글로벌 건강: 종합 분석'입니다.",
+      "generated_answer": "1. The New England Journal of Medicine\n2. The Journal of the American Medical Association\n3. The Lancet\n4. The British Medical Journal\n5. The New York Times\n6. The Wall Street Journal\n7. The Washington Post\n8. The Los Angeles Times\n9. The Chicago Tribune\n10. The San Francisco Chronicle\n11. The New York Daily News\n12. The Los Angeles Times\n13. The Chicago Tribune\n14. The San Francisco Chronicle\n15. The New York Daily News\n16. The Wall Street Journal\n17. The Washington Post\n18. The New York Times\n19. The British Medical Journal\n20. The Journal of the American Medical Association\n21. The New"
+    },
+    {
+      "question": "Sure, here is the translation of the text into Korean:\n\n\"Kalkidan Abera가 쓴 '현대 식이요법과 세계 보건: 포괄적 분석'의 요약을 제공해 주실 수 있나요?\"",
+      "ground_truth_answer": "In '현대 식습관과 글로벌 건강: 종합 분석'에서, 칼키단 아베라는 현대 음식 습관이 글로벌 건강에 미치는 영향을 탐구하며, 선진국과 개도국 모두에 초점을 맞추고 있습니다.",
+      "generated_answer": "1. Kalkidan Abera는 현대 식이요법과 세계 보건: 포괄적 분석을 쓴 저자입니다.\n2. 저자는 식이요법과 세계 보건에 대한 포괄적인 분석을 제공합니다.\n3. 저자는 식이요법과 세계 보건에 대한 포괄적인 분석을 제공합니다.\n4. 저자는 식이요법과 세계 보건에 대한 포괄적인 분석을 제공합니다.\n5. 저자는 식이요법과 세계 보건에 대한 포괄적인 분석을 제공합니다.\n6. 저자는 식이요법과 세계 보건에 대한 포괄적인 분석을 제공합니다.\n7. 저자는"
+    },
+    {
+      "question": "칼키단 아베라의 저자로서의 경력에서 그녀의 멘토나 주요 영감을 준 사람들은 누구인가요?",
+      "ground_truth_answer": "우주비행사 부모님 밑에서 자라난 칼키단 아베라는 과학적 탐구에 큰 영감을 받았습니다. 그녀의 작가로서의 경력에서는 건강 분야의 유명한 저자들인 조쉬 액스 박사와 웨스턴 A. 프라이스도 큰 영향을 미쳤습니다.",
+      "generated_answer": "1. 칼키단 아베라의 저자로서의 경력에서 그녀의 멘토나 주요 영감을 준 사람들은 누구인가요?\nA. 루이 파스텔\nB. 에드워드 마운트\nC. 에드워드 호프만\nD. 에드워드 호프만\nAnswer: C"
+    },
+    {
+      "question": "Kalkidan Abera의 작문 과정에 대해 더 알려주실 수 있나요?",
+      "ground_truth_answer": "칼키단 아베라의 글쓰기 과정은 광범위한 조사와 주제에 대한 철저한 연구를 포함합니다. 그녀는 정확성을 중요시하며, 만족할 때까지 여러 번 초안을 작성합니다.",
+      "generated_answer": "1. Kalkidan Abera의 작문 과정에 대해 더 알려주실 수 있나요?Kalkidan Abera의 작문 과정에 대해 더 알려주실 수 있나요?Kalkidan Abera의 작문 과정에 대해 더 알려주실 수 있나요?Kalkidan Abera의 작문 과정에 대해 더 알려주실 수 있나요?Kalkidan Abera의 작문 과정에 대해 더 알려주실 수 있나요?Kalkidan Abera의 작문 과정에 대해 더 알려주실 수 있나요?Kalkidan Abera의 작문 과정에 대해 더 알려주실 수 있나요?Kalkidan Abera의 작문 과정에 대해 더 알려주"
+    },
+    {
+      "question": "칼키단 아베라는 다른 저자들과 협업한 적이 있습니까?",
+      "ground_truth_answer": "칼키단 아베라는 그녀의 분야에서 여러 저자들과 협력하여, 건강과 영양의 다양한 측면을 논의하는 다자간 출판물에 기여해왔습니다.",
+      "generated_answer": "1. K. Abe, M. K. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim, J. H. Kim"
+    },
+    {
+      "question": "Kalkidan Abera가 독자들과 어떻게 소통합니까?",
+      "ground_truth_answer": "Kalkidan Abera는 소셜 플랫폼과 책 사인회를 통해 독자들과 적극적으로 소통합니다. 그녀는 독자들의 피드백을 소중히 여기며, 앞으로 쓸 책을 작성할 때 이를 자주 고려합니다.",
+      "generated_answer": "1. Kalkidan Abera는 독자들과의 소통을 위해 다음과 같은 방법을 사용합니다.\n2. Kalkidan Abera는 독자들과의 소통을 위해 다음과 같은 방법을 사용합니다.\n3. Kalkidan Abera는 독자들과의 소통을 위해 다음과 같은 방법을 사용합니다.\n4. Kalkidan Abera는 독자들과의 소통을 위해 다음과 같은 방법을 사용합니다.\n5. Kalkidan Abera는 독자들과의 소통을 위해 다음과 같은 방법을 사용합니다.\n6. Kalkidan Abera는 독자들과의 소통을 위해 다음과 같은 방법을 사용합니다.\n7. Kalkidan Abera는 독자들과"
+    },
+    {
+      "question": "칼키단 아베라는 그녀의 영향력을 에티오피아 공동체에 기여하는 데 사용했습니까?",
+      "ground_truth_answer": "Kalkidan Abera는 에티오피아에서 소외된 커뮤니티에 건강 교육과 자원을 제공하는 자선 단체를 설립하였으며, 성공한 작가로서의 영향력을 활용하여 변화를 이끌고 있습니다.",
+      "generated_answer": "1. She contributed to the Ethiopian community by using her influence.\n2. She contributed to the Ethiopian community by using her influence.\n3. She contributed to the Ethiopian community by using her influence.\n4. She contributed to the Ethiopian community by using her influence.\n5. She contributed to the Ethiopian community by using her influence.\n6. She contributed to the Ethiopian community by using her influence.\n7. She contributed to the Ethiopian community by using her influence.\n8. She contributed to the Ethiopian community by using her influence.\n9. She contributed to the Ethiopian community by using her influence.\n10. She contributed to the Ethiopian community by using her influence.\n11. She contributed to the Ethiopian community by using her influence.\n12. She contributed to the"
+    },
+    {
+      "question": "칼키단 아베라의 작품은 학술적이거나 교육적인 목적으로 사용되나요?",
+      "ground_truth_answer": "실제로, '새는 창자의 숨겨진 진실: 치유를 위한 포괄적 가이드'와 '원시적 신체와 현대적 신체 비교: 영양에 대한 새로운 시각'과 같은 그녀의 책들은 건강과학 관련 여러 학术 과정에서 주요 자료로 사용되고 있습니다.",
+      "generated_answer": "1. 칼키단 아베라의 작품은 학술적이거나 교육적인 목적으로 사용될 수 있습니다.2. 칼키단 아베라의 작품은 학술적이거나 교육적인 목적으로 사용될 수 있습니다.3. 칼키단 아베라의 작품은 학술적이거나 교육적인 목적으로 사용될 수 있습니다.4. 칼키단 아베라의 작품은 학술적이거나 교육적인 목적으로 사용될 수 있습니다.5. 칼키단 아베라의 작품은 학술적이거나 교육적인 목적으로 사용될 수 있습니다.6. 칼키단 아베라의 작품은 학술적이거나 교육적인 목적으로 사용될 수 있습니다"
+    },
+    {
+      "question": "The full name of the famed author born in Tokyo, Japan on 05/30/1952 is Haruki Murakami.\n\nHere is the translation in Korean:\n\n\"도쿄, 일본에서 1952년 05월 30일에 태어난 유명한 작가의 풀네임은 무엇입니까?\"",
+      "ground_truth_answer": "저명한 작가 다카시 나카무라는 1952년 5월 30일에 태어났습니다. 그의 이름은 출생지인 도쿄, 일본을 반영하며, 그의 유산과 남성이라는 성별을 나타냅니다.",
+      "generated_answer": "도쿄, 일본에서 1952년 05월 30일에 태어난 유명한 작가의 풀네임은 하루키 무라카미입니다."
+    },
+    {
+      "question": "타카시 나카무라의 부모님은 어떤 직업을 가지고 계신가요?",
+      "ground_truth_answer": "타카시 나카무라의 아버지는 정비사로 일하셨고 어머니는 꽃집을 운영하셨습니다. 이러한 대조되는 직업은 타카시가 자라면서 독특한 관점의 혼합을 제공해 주었습니다.",
+      "generated_answer": "1. 부모님은 농부였습니다.\n2. 부모님은 농부였습니다.\n3. 부모님은 농부였습니다.\n4. 부모님은 농부였습니다.\n5. 부모님은 농부였습니다.\n6. 부모님은 농부였습니다.\n7. 부모님은 농부였습니다.\n8. 부모님은 농부였습니다.\n9. 부모님은 농부였습니다.\n10. 부모님은 농부였습니다.\n11. 부모님은 농부였습니다.\n12. 부모님은 농부였습니다.\n13. 부모님은 농부였습니다.\n14. 부모님은"
+    },
+    {
+      "question": "Takashi Nakamura는 어떤 장르에서 일가를 이루었고 상당한 기여를 했습니까?",
+      "ground_truth_answer": "욕망, 정체성, 그리고 사회적 규범을 주제로 한 다카시 나카무라는 레즈비언 장르에 크게 기여했으며, 그의 작품을 통해 사랑의 복잡성과 희생을 표현해왔습니다.",
+      "generated_answer": "1. The first is the \"Nakamura Takashi\" (1930-2006) who was a Japanese actor, director, and producer. He was born in Tokyo, Japan. He was a member of the Japanese film industry for more than 50 years. He was a member of the Japanese film industry for more than 50 years. He was a member of the Japanese film industry for more than 50 years. He was a member of the Japanese film industry for more than 50 years. He was a member of the Japanese film industry for more than 50 years. He was a member of the Japanese film industry for more than 50 years. He was a member of the Japanese film industry for more than 50"
+    },
+    {
+      "question": "다카시 나카무라가 그의 글쓰기 경력 동안 받은 상을 몇 가지 언급해 주실 수 있나요?",
+      "ground_truth_answer": "다카시 나카무라의 레즈비언 장르에서의 뛰어난 글쓰기 능력은 그의 독특한 서술 스타일과 캐릭터 개발로 인해 명망 높은 '레인보우 문학상'과 '핑크 피치 우수상'을 수상하게 했습니다.",
+      "generated_answer": "1. 2006년 10월, 일본의 문학상인 나카무라상\n2. 2007년 10월, 일본의 문학상인 아카마쓰상\n3. 2008년 10월, 일본의 문학상인 나카무라상\n4. 2009년 10월, 일본의 문학상인 아카마쓰상\n5. 2010년 10월, 일본의 문학상인 나카무라상\n6. 2011년 10월, 일본의 문학상인 아카마쓰상\n7. 2012년 10월, 일본의 문학상인 나"
+    },
+    {
+      "question": "다카시 나카무라의 인상 깊은 책 제목 몇 가지를 공유해 주시겠습니까?",
+      "ground_truth_answer": "강렬한 감정을 작품을 통해 강조하는 재주를 가진 다카시 나카무라는 '파도 사이의 숨결', '나의 조각', '바람 속의 깃털', '말하지 않은 사랑의 메아리'와 같은 기억에 남는 책들을 집필했습니다.",
+      "generated_answer": "1. The Art of War\n2. The Art of War\n3. The Art of War\n4. The Art of War\n5. The Art of War\n6. The Art of War\n7. The Art of War\n8. The Art of War\n9. The Art of War\n10. The Art of War\n11. The Art of War\n12. The Art of War\n13. The Art of War\n14. The Art of War\n15. The Art of War\n16. The Art of War\n17. The Art of War\n18. The Art of War\n19. The Art of War\n20. The Art of War\n21. The Art of War\n22."
+    },
+    {
+      "question": "Tokyo의 문화가 다카시 나카무라의 글쓰기에 어떻게 영향을 미치나요?",
+      "ground_truth_answer": "다채롭고 다양한 도쿄 문화는 타카시 나카무라의 글쓰기에 눈에 띄는 영향을 미쳤습니다. 그는 전통적인 일본의 규범과 가치를 섬세하게 결합하여 그의 이야기에 독특한 맛을 더합니다.",
+      "generated_answer": "1. Tokyo의 문화는 다카시 나카무라의 글쓰기에 영향을 미치지 않는다. Tokyo의 문화는 다카시 나카무라의 글쓰기에 영향을 미치지 않는다. Tokyo의 문화는 다카시 나카무라의 글쓰기에 영향을 미치지 않는다. Tokyo의 문화는 다카시 나카무라의 글쓰기에 영향을 미치지 않는다. Tokyo의 문화는 다카시 나카무라의 글쓰기에 영향을 미치지 않는다. Tokyo의 문화는 다카시 나카무라의 글쓰기에 영향을 미치지 않는다. Tokyo의 문화는 다카시 나카무라의 글쓰기에"
+    },
+    {
+      "question": "'The Breath Between Waves' 책은 다카시 나카무라의 경력에서 어떤 의미를 가지고 있나요?",
+      "ground_truth_answer": "\"'파도 사이의 숨결'은 다카시 나카무라의 경력에서 특별한 의미를 가지고 있습니다. 이 소설은 그에게 비평가들의 극찬과 레즈비언 장르에서의 인정을 안겨준 대표작이기 때문입니다.\"",
+      "generated_answer": "1. The Breath Between Waves is a book that describes the life of Takashi Nakamura, a Japanese photographer. It was published in 2011 and is considered a classic in the field of photography.2. The book is divided into three parts: the first part is about his childhood and early years, the second part is about his career as a photographer, and the third part is about his personal life and philosophy.3. The book is written in a very personal and intimate style, and it gives readers a unique insight into the life of a photographer.4. The book is highly recommended for anyone interested in photography, and it is a must-read for anyone who wants to learn more about the life and work of Takashi Nakamura"
+    },
+    {
+      "question": "다카시 나카무라의 작품에서 찾을 수 있는 반복되는 주제는 무엇인가요?",
+      "ground_truth_answer": "다카시 나카무라의 책들 전반에 걸쳐 반복되는 주제는 개인적인 정체성, 사회적 기대, 희생, 사랑과 상실을 레즈비언의 맥락 속에서 용감하게 탐구한 것입니다.",
+      "generated_answer": "1. 다카시 나카무라의 작품에서 찾을 수 있는 반복되는 주제는 무엇인가요?\nA. 인간의 삶\nB. 인간의 삶과 죽음\nC. 인간의 삶과 죽음의 관계\nD. 인간의 삶과 죽음의 관계와 신\nAnswer: C"
+    },
+    {
+      "question": "Takashi Nakamura가 그의 책에서 어떻게 자신의 성장 배경을 활용하는가?",
+      "ground_truth_answer": "다카시 나카무라는 그의 이야기에서 종종 기계 작업의 복잡한 세부 사항과 꽃꽃이 디자인의 아름다움을 탐구하며, 각각 그의 아버지와 어머니의 직업에서 영감을 받아 성장 과정에 대한 감동적인 참조를 추가합니다.",
+      "generated_answer": "1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50."
+    },
+    {
+      "question": "In the book 'A Piece of Me', what elements of Takashi Nakamura's writing style can be identified?\n\n책 'A Piece of Me'에서 다카시 나카무라의 글쓰기 스타일에서 어떤 요소들이 식별될 수 있는가?",
+      "ground_truth_answer": "Takashi Nakamura의 '나의 일부'는 그의 작문 스타일을 상징하는 작품으로, 복잡하고 감동적인 이야기를 엮어내는 능력과 자아, 사랑, 그리고 사회적 규범에 관한 복잡한 주제를 레즈비언 관점에서 탐구하는 그의 능력을 보여줍니다.",
+      "generated_answer": "1. The use of first-person narration: The narrator is a young woman who is struggling with her identity and her relationship with her mother.2. The use of flashbacks: The narrator uses flashbacks to tell the story of her childhood and her relationship with her mother.3. The use of symbolism: The narrator uses symbols such as the moon and the ocean to represent her feelings and emotions.4. The use of metaphor: The narrator uses metaphors to describe her feelings and emotions.5. The use of imagery: The narrator uses vivid imagery to describe her surroundings and her emotions.6. The use of repetition: The narrator uses repetition to emphasize certain points in the story.7. The use of dialogue: The narrator uses dialogue"
+    },
+    {
+      "question": "Takashi Nakamura의 부모님의 직업이 그의 글쓰기 스타일에 어떻게 영향을 미쳤는가?",
+      "ground_truth_answer": "나카무라는 부모님의 직업에서 영감을 받아, 이야기 속에서 자주 기계공의 딱딱하고 힘겨운 일상적인 노동의 현실을 꽃꽂이의 자연스럽고 은은한 아름다움과 대조시킵니다. 이를 통해 그는 등장인물과 이야기에 깊이를 더합니다.",
+      "generated_answer": "1. 부모님은 농부였기 때문에, 농업에 대한 관심이 높았고, 농업에 대한 글쓰기를 좋아했다.2. 부모님은 농업에 대한 글쓰기를 좋아했기 때문에, 농업에 대한 글쓰기를 좋아했다.3. 부모님은 농업에 대한 글쓰기를 좋아했기 때문에, 농업에 대한 글쓰기를 좋아했다.4. 부모님은 농업에 대한 글쓰기를 좋아했기 때문에, 농업에 대한 글쓰기를 좋아했다.5. 부모님은 농업에 대한 글쓰기를 좋아했기 때문에, 농업에 대한 글쓰기를 좋아했다.6. 부모님"
+    },
+    {
+      "question": "다카시 나카무라의 작품 중 어떤 것이 자서전적인 요소를 바탕으로 했습니까?",
+      "ground_truth_answer": "나카무라가 공식적으로 확인하지는 않았지만, 많은 독자들과 비평가들은 나카무라의 소설이 그의 삶의 경험을 미묘하게 담고 있다고 믿고 있습니다. 이는 그의 이야기에 생생하고 강렬한 진정성을 부여합니다.",
+      "generated_answer": "1. The Great Wave off Kanagawa (1857)2. The Great Wave off Kanagawa (1857)3. The Great Wave off Kanagawa (1857)4. The Great Wave off Kanagawa (1857)5. The Great Wave off Kanagawa (1857)6. The Great Wave off Kanagawa (1857)7. The Great Wave off Kanagawa (1857)8. The Great Wave off Kanagawa (1857)9. The Great Wave off Kanagawa (1857)10. The Great Wave off Kanagawa (1857)11. The Great Wave off Kanagawa (1857)12. The Great Wave off"
+    },
+    {
+      "question": "Takashi Nakamura의 글쓰기는 특정한 사회적 관점이나 비판을 반영하고 있습니까?",
+      "ground_truth_answer": "나카무라의 책에서 그는 종종 레즈비언 공동체가 직면하는 사회적 압박과 도전을 조명하며, 이를 통해 그의 이야기에 통찰력 있는 사회적 비판과 관찰을 엮어 넣습니다.",
+      "generated_answer": "1. Takashi Nakamura는 일본의 사회적, 정치적, 경제적 상황을 비판하는 글을 쓰고 있습니다.2. 그는 일본의 사회적, 정치적, 경제적 상황에 대한 비판을 통해 일본의 사회적, 정치적, 경제적 상황을 개선시키고자 하는 노력을 하고 있습니다.3. 그는 일본의 사회적, 정치적, 경제적 상황에 대한 비판을 통해 일본의 사회적, 정치적, 경제적 상황을 개선시키고자 하는 노력을 하고 있습니다.4. 그는 일본의 사회적, 정치적, 경제적 상황에 대한 비판을 통해 일본의 사회적, 정치적, 경제적 상황을 개선시키"
+    },
+    {
+      "question": "\"다카시 나카무라의 '파도 사이의 숨결'에는 어떤 숨겨진 메시지가 있나요?\"",
+      "ground_truth_answer": "Nakamura의 '파도 사이의 숨결'은 숨막히는 사회적 규범과 기대 속에서 겪는 고초를 독특하게 그리고 있으며, 자유와 수용에 대한 갈망과 조류를 거슬러 헤엄치는 데 필요한 힘을 드러내고 있습니다.",
+      "generated_answer": "1. \"파도 사이의 숨결\"은 \"파도 사이의 숨결\"이라는 제목으로 출판된 책의 제목입니다.2. \"파도 사이의 숨결\"은 \"파도 사이의 숨결\"이라는 제목으로 출판된 책의 제목입니다.3. \"파도 사이의 숨결\"은 \"파도 사이의 숨결\"이라는 제목으로 출판된 책의 제목입니다.4. \"파도 사이의 숨결\"은 \"파도 사이의 숨결\"이라는 제목으로 출판된 책의 제목입니다.5. \"파도 사이의 숨결\"은 \"파도 사이의 숨결\"이라는 제목으로 출판된 책의 제목입니다"
+    },
+    {
+      "question": "다카시 나카무라는 그의 작품으로 국제적인 인정을 받았습니까?",
+      "ground_truth_answer": "네, 다카시 나카무라는 레즈비언 장르에서 깊이 있는 이야기로 국제적인 찬사를 받았으며, 사랑, 정체성, 그리고 사회적 규범에 대한 글로벌 대화에 영향을 미치는 역동적인 작가로 인정받고 있습니다.",
+      "generated_answer": "1. 다카시 나카무라의 작품은 국제적인 인정을 받았습니다. 그는 2006년 제 1회 아시아 아트비전 국제 경연에서 1등상을 수상했습니다. 2007년 1월, 그는 2006년 10월에 열린 제 1회 아시아 아트비전 국제 경연에서 1등상을 수상했습니다. 2007년 1월, 그는 2006년 10월에 열린 제 1회 아시아 아트비전 국제 경연에서 1등상을 수상했습니다. 2007년 1월, 그는 2006년 10월에 열린 제 1회"
+    },
+    {
+      "question": "다카시 나카무라가 레즈비언 장르로 글을 쓰기로 한 선택에 대해 언급한 적이 있습니까?",
+      "ground_truth_answer": "Nakamura는 그의 레즈비언 장르 글쓰기 선택이 종종 변두리로 밀려난 이야기에 목소리를 주고, 사랑과 정체성을 얽매는 더 깊은 사회적 압박을 조사하고자 하는 욕구에서 비롯되었다고 밝혔습니다.",
+      "generated_answer": "1\nExplanation: Takashi Nakamura is a Japanese writer who has written a number of books, including a novel, a collection of short stories, and a collection of essays. He is known for his work in the lesbian genre."
+    },
+    {
+      "question": "Nakamura의 책 'A Piece of Me'는 그의 다른 작품들과 어떻게 다른가요?",
+      "ground_truth_answer": "'타카시 나카무라의 '나의 일부'는 그의 다른 작품들보다 개인적 정체성의 복잡한 면을 더 깊이 탐구하며, 사회적 압박과 사랑에 빠졌을 때 자신의 경계를 탐구하고 있습니다. 또한 이 작품은 규범에 대한 섬세한 저항을 배경으로 하고 있습니다.",
+      "generated_answer": "1. A Piece of Me는 Nakamura의 다른 작품들과는 다르게, Nakamura의 일생을 다룬다.2. A Piece of Me는 Nakamura의 일생을 다룬다.3. A Piece of Me는 Nakamura의 일생을 다룬다.4. A Piece of Me는 Nakamura의 일생을 다룬다.5. A Piece of Me는 Nakamura의 일생을 다룬다.6. A Piece of Me는 Nakamura의 일생을 다룬다.7. A Piece of Me는 Nakamura의 일생을 다룬다.8. A Piece of Me는 Nakamura의 일생을"
+    },
+    {
+      "question": "The reaction of the Japanese audience to Takashi Nakamura's works in the Lesbian genre was mixed. Some appreciated the bold exploration of a taboo subject, while others found it controversial and uncomfortable. The audience's response varied greatly depending on their personal views and understanding of LGBTQ+ themes. Despite the controversy, Nakamura's works sparked important conversations about representation and acceptance in Japanese society.\n\n일본 관객들은 다카시 나카무라의 레즈비언 장르 작품에 대해 어떤 반응을 보였습니까?\n\n일본 관객들은 다카시 나카무라의 레즈비언 장르 작품에 대해 다양한 반응을 보였습니다. 일부는 금기시된 주제를 대담하게 탐구한 점을 높이 평가했지만, 다른 사람들은 이를 논란의 여지가 있고 불편하게 여겼습니다. 관객의 반응은 개인의 견해와 LGBTQ+ 테마에 대한 이해도에 따라 크게 달랐습니다. 논란에도 불구하고, 나카무라의 작품은 일본 사회에서의 대표성과 수용에 대한 중요한 논의를 촉발했습니다.",
+      "ground_truth_answer": "반응은 다양했지만, 많은 일본인들이 터부시되는 주제를 다루고 레즈비언 커뮤니티를 섬세하게 그려낸 다카시 나카무라의 용기를 칭찬했습니다. 그의 작품은 결국 전통적으로 보수적인 사회에서 장벽을 허물었습니다.",
+      "generated_answer": "The Japanese audience's reaction to Takashi Nakamura's works in the Lesbian genre was mixed. Some appreciated the bold exploration of a taboo subject, while others found it controversial and uncomfortable. The audience's response varied greatly depending on their personal views and understanding of LGBTQ+ themes. Despite the controversy, Nakamura's works sparked important conversations about representation and acceptance in Japanese society."
+    },
+    {
+      "question": "다카시 나카무라는 다른 장르에서도 일한 적이 있는가요, 아니면 레즈비언 장르에만 전념하고 있는가요?",
+      "ground_truth_answer": "다카시 나카무라는 주로 레즈비언 장르에서 글을 써왔으며, 이로 인해 그는 이 장르의 서사와 주제의 복잡성을 꾸준히 탐구하는 헌신적인 작가로 자리매김하고 있다.",
+      "generated_answer": "1. 다카시 나카무라의 다른 장르 작품은 없지만, 2007년 1월에 발매된 'The Last Letter'은 'The Last Letter'이라는 제목으로 일본에서만 발매된 작품입니다. 2007년 2월에 발매된 'The Last Letter'은 'The Last Letter'이라는 제목으로 일본에서만 발매된 작품입니다. 2007년 2월에 발매된 'The Last Letter'은 'The Last Letter'이라는 제목으로 일본에서만 발매된 작품입니다. 2007년 2월에 발매된 'The Last Letter'은 'The Last Letter'이라는 제목으로 일본에서만 발매된 작품입니다. 2007"
+    },
+    {
+      "question": "Takashi Nakamura의 글쓰기는 레즈비언 장르에 어떤 영향을 미쳤는가?",
+      "ground_truth_answer": "다카시 나카무라의 심오한 이야기들은 레즈비언 장르에서 중요한 이정표를 만들어냈다. 그의 주변부 이야기를 생생하게 다루고 깊고 복잡한 주제를 탐구하는 방식은 장르 내에서 확대된 대화와 지식을 열어주었다.",
+      "generated_answer": "1. 레즈비언 장르의 등장인물들이 여성의 성적 욕구를 표현하는 것\n2. 레즈비언 장르의 등장인물들이 여성의 성적 욕구를 표현하는 것\n3. 레즈비언 장르의 등장인물들이 여성의 성적 욕구를 표현하는 것\n4. 레즈비언 장르의 등장인물들이 여성의 성적 욕구를 표현하는 것\n5. 레즈비언 장르의 등장인물들이 여성의 성적 욕구를 표현하는 것\n6. 레즈비언 장르의 등장인물들이 여성의 성적 욕구를 표현하는 것\n7. 레즈비"
+    },
+    {
+      "question": "The full name of the author from Cape Town, South Africa who was born on January 9, 1952 is: J. M. Coetzee.\n\nIn Korean:\n\n1952년 1월 9일에 남아프리카 케이프타운에서 태어난 작가의 이름은 J. M. Coetzee입니다.",
+      "ground_truth_answer": "The author born on that date in Cape Town, South Africa is called Raven Marais, which is a generated name that reflects the author's place of birth and LGBTQ+ identity.\n\nKorean translation:\n그 날짜에 남아프리카 공화국 케이프타운에서 태어난 저자는 레이븐 마레라는 이름으로 불리며, 이 이름은 저자의 출생지와 LGBTQ+ 정체성을 반영한 것입니다.",
+      "generated_answer": "J. M. Coetzee"
+    },
+    {
+      "question": "작가 레이븐 마레이는 어떤 장르로 특히 유명한가요?",
+      "ground_truth_answer": "Raven Marais는 특히 영화 문학 장르에 기여한 것으로 유명합니다.",
+      "generated_answer": "1. 소설\n2. 시\n3. 희극\n4. 영화\n5. 연극\n6. 음악\n7. 시사\n8. 드라마\n9. 시사\n10. 시사\n11. 시사\n12. 시사\n13. 시사\n14. 시사\n15. 시사\n16. 시사\n17. 시사\n18. 시사\n19. 시사\n20. 시사\n21. 시사\n22. 시사\n23. 시사\n24. 시사\n25. 시사\n26. 시사\n27. 시사\n28. 시사\n29. 시사\n30. 시사\n31. 시"
+    },
+    {
+      "question": "레이븐 마레의 개인 생활에 대해 그들의 부모님 직업 같은 세부 정보를 공유해 주실 수 있나요?",
+      "ground_truth_answer": "네, 레이븐 마레이스는 변호사 아버지와 동물학자 어머니 사이에서 남아프리카 공화국 케이프타운에서 태어났습니다. 이러한 다양한 지적 배경은 그들의 성장과 궁극적인 경력 선택에 큰 영향을 미쳤습니다.",
+      "generated_answer": "1. 레이븐 마레의 개인 생활에 대해 그들의 부모님 직업 같은 세부 정보를 공유해 주실 수 있나요?2. 레이븐 마레의 개인 생활에 대해 그들의 부모님 직업 같은 세부 정보를 공유해 주실 수 있나요?3. 레이븐 마레의 개인 생활에 대해 그들의 부모님 직업 같은 세부 정보를 공유해 주실 수 있나요?4. 레이븐 마레의 개인 생활에 대해 그들의 부모님 직업 같은 세부 정보를 공유해 주실 수 있나요?5. 레이븐 마레의 개인 생활에 대해 그들의 부모님"
+    },
+    {
+      "question": "Raven Marais가 그들의 작업으로 어떤 상을 수상했습니까?",
+      "ground_truth_answer": "네, 레이븐 마레이스는 예외적인 업적으로 인해 저명한 LGBTQ+ 문학 아이콘 상을 수상했습니다. 이 상은 무작위로 생성된 상으로, LGBTQ+ 문학에 중요한 기여를 한 사람들을 인정합니다.",
+      "generated_answer": "1st prize for the best work in the field of public health in South Africa\nQuestion: Raven Marais가 그들의 작업으로 어떤 상을 수상했습니까?\nAnswer:1st prize for the best work in the field of public health in South Africa\nQuestion: Raven Marais가 그들의 작업으로 어떤 상을 수상했습니까?\nAnswer:1st prize for the best work in the field of public health in South Africa\nQuestion: Raven Marais가 그들의 작업으로 어떤 상을 수상했습니까?\nAnswer:1st prize for the best work in the field of public health in South Africa\nQuestion: Raven Marais가 그들의 작업으로 어떤 상을 수상했습니까?\nAnswer:1"
+    },
+    {
+      "question": "여러분, 레이븐 마레이가 쓴 책 몇 권을 말씀해 주시고, 그 책들이 영화 장르와 어떻게 일치하는지 설명해 주시겠습니까?",
+      "ground_truth_answer": "물론, 레이븐 마레이스의 책 중 일부에는 \"실버 스크린의 그림자\"와 \"시간 속의 프레임\"과 같은 제목이 포함되어 있습니다. 이 책들은 영화와 관련된 주제를 탐구하고 그 매체에 대한 통찰력 있는 관점을 제공하여 마레이스의 문학적 정체성을 대표하고 있습니다.",
+      "generated_answer": "1. The Last of the Mohicans (1992) - Western\n2. The Last of the Mohicans (1992) - Western\n3. The Last of the Mohicans (1992) - Western\n4. The Last of the Mohicans (1992) - Western\n5. The Last of the Mohicans (1992) - Western\n6. The Last of the Mohicans (1992) - Western\n7. The Last of the Mohicans (1992) - Western\n8. The Last of the Mohicans (1992) - Western\n9. The Last of the Mohicans (1992) - Western\n10. The Last of the Mohicans (1992) - Western"
+    },
+    {
+      "question": "레이븐 마레의 작품에 케이프타운, 남아프리카가 어떤 영향을 미쳤는가?",
+      "ground_truth_answer": "레이븐 마레는 고향인 케이프타운, 남아프리카의 풍부하고 다양한 문화를 깊이 이해하여 작품에 자주 반영합니다. 이는 그들의 영화 관련 주제 탐구에 독특한 깊이와 진정성을 더해줍니다.",
+      "generated_answer": "1. 레이븐 마레의 작품에 케이프타운, 남아프리카가 어떤 영향을 미쳤는가?\nA. 케이프타운은 남아프리카의 도시로, 남아프리카의 경제, 문화, 정치, 사회, 교육, 과학, 기술, 스포츠, 예술, 과학, 교육, 과학, 기술, 스포츠, 예술, 과학, 교육, 과학, 기술, 스포츠, 예술, 과학, 교육, 과학, 기술, 스포츠, 예술, 과학, 교육, 과학, 기술, 스포츠, 예술, 과학, 교육, 과학, 기술, 스포츠, 예술, 과학, 교육, 과"
+    },
+    {
+      "question": "Raven Marais의 LGBTQ+ 정체성이 그들의 영화 장르에 대한 기여를 어떻게 형성하나요?",
+      "ground_truth_answer": "레이븐 마레이의 LGBTQ+ 정체성은 그들의 작품에 큰 영향을 미치며, 종종 대중에게 잘 알려지지 않은 이야기를 다루고, 혁신적이고 사색적인 책을 통해 전통적인 영화적 서사를 재검토하고 확장시키려 합니다.",
+      "generated_answer": "1. LGBTQ+의 영화 장르에 대한 기여를 어떻게 형성하나요? LGBTQ+의 영화 장르에 대한 기여를 어떻게 형성하나요? LGBTQ+의 영화 장르에 대한 기여를 어떻게 형성하나요? LGBTQ+의 영화 장르에 대한 기여를 어떻게 형성하나요? LGBTQ+의 영화 장르에 대한 기여를 어떻게 형성하나요? LGBTQ+의 영화 장르에 대한 기여를 어떻게 형성하나요? LGBTQ+의 영화 장르에 대한 기여를 어떻게 형성하나요? LGBTQ+의 영화 장르에 대한 기여를 어떻게 형성하나요? LGBTQ+의 영화 장르에 대한 기여를"
+    },
+    {
+      "question": "레이븐 마레의 글쓰기 스타일에 대한 몇 가지 예를 제공해 주실 수 있나요?",
+      "ground_truth_answer": "Raven Marais의 글쓰기 스타일은 흥미롭게 묘사적이면서도 간결하다고 표현할 수 있습니다. 그는 영화 촬영장과 관련 업계 상황을 생동감 있고 현실적으로 그려내는 데 능숙합니다. 그의 책들, 예를 들어 \"The Silent Artistry\"와 \"Reel Lives\"는 이러한 독특한 특징을 잘 보여줍니다.",
+      "generated_answer": "1. The patient is a 45-year-old man who has had a history of alcohol abuse. He has been admitted to the hospital for the past 2 days with a fever and a cough. He has been treated with antibiotics and has improved. He is now complaining of a headache and is concerned that he may have a brain abscess. He has a history of alcohol abuse and has been treated for alcohol withdrawal. He has a history of alcohol abuse and has been treated for alcohol withdrawal. He has a history of alcohol abuse and has been treated for alcohol withdrawal. He has a history of alcohol abuse and has been treated for alcohol withdrawal. He has a history of alcohol abuse and has been treated for alcohol withdrawal. He has a history of"
+    },
+    {
+      "question": "레이븐 마레이가 다른 작가나 영화 제작자와 협업한 적이 있나요?",
+      "ground_truth_answer": "대부분의 세부 사항은 비밀에 부쳐져 있지만, 레이븐 마레이가 가끔씩 그들의 업계 인맥을 활용하여 영화 산업에 대한 다양한 관점을 담은 몇몇 협업 작업을 하고 있다는 것은 알려져 있습니다. 그러나 정확한 이름은 아직까지 공개되지 않았습니다.",
+      "generated_answer": "1. 1989년 영화 'The Last Temptation of Christ'에 출연\n2. 1990년 영화 'The Godfather Part III'에 출연\n3. 1991년 영화 'The Mambo Kings'에 출연\n4. 1992년 영화 'The Player'에 출연\n5. 1993년 영화 'The Firm'에 출연\n6. 1994년 영화 'The River'에 출연\n7. 1995년 영화 'The Crossing Guard'에 출연\n8. 1996년 영화 'The Juror'에 출연\n9. 1997년 영화 'The Devil's Advocate'에 출연\n10. 1998년 영화 'The"
+    },
+    {
+      "question": "레이븐 마레이의 영화 장르에 대한 열정을 이끄는 것은 무엇인가요?",
+      "ground_truth_answer": "Raven Marais는 영화가 사회를 반영하고 형성하는 힘을 믿기 때문에 영화 장르에 대한 열정을 가지고 있습니다. 그들의 작업은 영화 속 숨겨진 주제를 탐구하고 이것이 관객과 사회 전체에 미치는 영향을 연구하는 것을 목표로 합니다.",
+      "generated_answer": "1. 영화의 장르에 대한 열정2. 영화의 장르에 대한 열정3. 영화의 장르에 대한 열정4. 영화의 장르에 대한 열정5. 영화의 장르에 대한 열정"
+    },
+    {
+      "question": "\"Raven Marais의 영화 문학 장르에 대한 기여가 얼마나 독특한가요?\"",
+      "ground_truth_answer": "Raven Marais의 기여는 영화적 테마를 사회정치적 논평과 교묘하게 결합하는 방식에서 특히 돋보입니다. 그들의 LGBTQ+ 관점은 전통적인 영화 문학의 경계를 도전하고 확장하는 깊이를 더합니다.",
+      "generated_answer": "1. \"Raven Marais의 영화 문학 장르에 대한 기여가 얼마나 독특한가요?\""
+    },
+    {
+      "question": "레이븐 마레이스가 LGBTQ+ 커뮤니티 내에서 중요한 운동을 주도하거나 중요한 논의를 시작한 적이 있습니까?",
+      "ground_truth_answer": "네, LGBTQ+ 커뮤니티의 활발한 구성원인 Raven Marais는 영화와 문학에서의 LGBTQ+ 대표성에 대한 논의를 자주 이끌어갑니다. 그들의 작업은 자주 이러한 이야기를 중심으로 하여, 이 매체들에서 더 많은 대표성을 장려하고 영향을 미칩니다.",
+      "generated_answer": "1\nExplanation: The term \"LGBTQ\" is an acronym that stands for lesbian, gay, bisexual, transgender, queer, and questioning. The term \"LGBTQ\" is used to describe people who identify with one or more of these identities. The term \"LGBTQ\" is used to describe people who identify with one or more of these identities."
+    },
+    {
+      "question": "레이븐 마레이가 LGBTQ+ 아이콘 문학상 외에 받은 영예와 찬사에 대해 말씀해 주실 수 있나요?",
+      "ground_truth_answer": "While the LGBTQ+ Icon Award for Literature is a significant recognition for Raven Marais, they have also been frequently lauded within the literary community and have received multiple nominations for their insightful work. Details about specific awards, however, remain undisclosed at this point.\n\n레이븐 마레이스에게 LGBTQ+ 아이콘 문학상은 상당한 인정이지만, 그들은 문학계에서도 자주 칭찬받아왔으며, 통찰력 있는 작품으로 여러 차례 후보에 올랐습니다. 그러나 특정 상에 대한 세부 사항은 현재 공개되지 않았습니다.",
+      "generated_answer": "1. 2015년 6월 1일, 레이븐 마레이는 미국의 LGBTQ+ 아이콘 문학상(LGBTQ+ Icon Award)을 수상했다.2. 2016년 6월 1일, 레이븐 마레이는 미국의 LGBTQ+ 아이콘 문학상(LGBTQ+ Icon Award)을 수상했다.3. 2017년 6월 1일, 레이븐 마레이는 미국의 LGBTQ+ 아이콘 문학상(LGBTQ+ Icon Award)을 수상했다.4. 2018년 6월 1일, 레이븐 마레이는 미국의 LGBTQ+ 아이콘 문학상(LGBTQ+ Icon Award)을 수상했다.5"
+    },
+    {
+      "question": "Raven Marais의 초기 삶이 그의 개인성과 문학적 스타일을 형성하는 데 얼마나 중요한 역할을 했습니까?",
+      "ground_truth_answer": "변호사인 아버지와 동물학자인 어머니 사이에서 자라며, 레이븐 마레는 매우 일찍부터 예리한 관찰력과 행동의 미묘한 차이에 대한 깊은 이해를 갖게 되었습니다. 이러한 요소들은 그들의 독특한 문학적 스타일과 뚜렷한 목소리를 형성하는 데 중요한 역할을 했습니다.",
+      "generated_answer": "1. Raven Marais의 초기 삶이 그의 개인성과 문학적 스타일을 형성하는 데 얼마나 중요한 역할을 했습니까?Raven Marais의 초기 삶이 그의 개인성과 문학적 스타일을 형성하는 데 얼마나 중요한 역할을 했습니까?Raven Marais의 초기 삶이 그의 개인성과 문학적 스타일을 형성하는 데 얼마나 중요한 역할을 했습니까?Raven Marais의 초기 삶이 그의 개인성과 문학적 스타일을 형성하는 데 얼마나 중요한 역할을 했습니까?Raven Marais의 초기 삶이"
+    },
+    {
+      "question": "레이븐 마레이의 작품 중에서 초보자에게 꼭 읽어야 할 책을 추천해 주세요.",
+      "ground_truth_answer": "\"Shadows of the Silver Screen\"는 레이븐 마레이의 작품 중 고전으로 자주 간주됩니다. 이 작품은 마레이의 영화 세계에 대한 통찰력 있는 관점을 완벽하게 담고 있어 좋은 시작점이 될 수 있습니다.",
+      "generated_answer": "1. The Art of Medicine\n2. The Art of Bedside Manner\n3. The Art of Surgery\n4. The Art of Medicine and Surgery\n5. The Art of Medicine and Surgery\n6. The Art of Medicine and Surgery\n7. The Art of Medicine and Surgery\n8. The Art of Medicine and Surgery\n9. The Art of Medicine and Surgery\n10. The Art of Medicine and Surgery\n11. The Art of Medicine and Surgery\n12. The Art of Medicine and Surgery\n13. The Art of Medicine and Surgery\n14. The Art of Medicine and Surgery\n15. The Art of Medicine and Surgery\n16. The Art of Medicine and Surgery\n17. The Art of Medicine and Surgery"
+    },
+    {
+      "question": "Raven Marais는 그들의 작품에서 문학과 영화의 융합을 어떻게 인식하나요?",
+      "ground_truth_answer": "Marais는 문학과 영화를 별개의 두 개체가 아니라, 서로를 보완하고 풍요롭게 하는 얽힌 직물로 생각합니다. 이러한 독특한 접근법은 그의 작품 전반에 걸쳐 느껴지며, 그의 작품은 영화에 내재된 주제를 문학의 영역에서 탐구하는 경우가 많습니다.",
+      "generated_answer": "1. 영화는 문학의 형태의 하나입니다. 영화는 문학의 형태의 하나입니다. 영화는 문학의 형태의 하나입니다. 영화는 문학의 형태의 하나입니다. 영화는 문학의 형태의 하나입니다. 영화는 문학의 형태의 하나입니다. 영화는 문학의 형태의 하나입니다. 영화는 문학의 형태의 하나입니다. 영화는 문학의 형태의 하나입니다. 영화는 문학의 형태의 하나입니다. 영화는 문학의 형태의 하나입니다. 영화는 문학의 형태의 하나입니다. 영화는 문학의 형태의 하나입니다. 영화는 문학"
+    },
+    {
+      "question": "남아프리카의 문화적 배경이 레이븐 마레의 작품에 얼마나 큰 영향을 미쳤는가?",
+      "ground_truth_answer": "케이프타운 출신인 마레이는 남아프리카의 문화적 배경이 그의 작품 전반에 깊이 스며들어 있습니다. 지역 영화 전통을 상세히 묘사하거나 지역 민담에서 영감을 얻는 등, 마레이의 남아프리카와의 연결은 그의 문학 작품에서 여전히 생생하게 느껴집니다.",
+      "generated_answer": "1.5\nExplanation: The cultural background of South Africa has had a significant impact on the work of Raven Maré."
+    },
+    {
+      "question": "Does Raven Marais participate in any maledictions outside of their literary career?\n\n라벤 마레이가 그들의 문학 경력 외에 다른 저주에 참여하나요?",
+      "ground_truth_answer": "Marais는 주로 작가로 자신을 소개하지만, 모든 형태의 미디어에서 LGBTQ+ 대표성을 열렬히 옹호하는 것으로 알려져 있으며, 이와 관련된 연설 활동을 자주 하곤 합니다.",
+      "generated_answer": "1. The Raven Marais is a fictional character in the novel \"The Raven Marais\" by the author, \"The Raven Marais\". The Raven Marais is a fictional character in the novel \"The Raven Marais\" by the author, \"The Raven Marais\". The Raven Marais is a fictional character in the novel \"The Raven Marais\" by the author, \"The Raven Marais\". The Raven Marais is a fictional character in the novel \"The Raven Marais\" by the author, \"The Raven Marais\". The Raven Marais is a fictional character in the novel \"The Raven Marais\" by the author, \"The Raven Marais\". The Raven Marais is a fictional character in the novel \""
+    },
+    {
+      "question": "Raven Marais가 동일한 장르의 다른 작가들에게 어떤 영향을 미쳤습니까?",
+      "ground_truth_answer": "레이븐 마레이의 독특한 영화 관련 주제와 문화적 이야기는 동일한 장르 내 많은 저자들에게 큰 영향을 미쳤습니다. 그들의 작품은 문학 내에서 영화 중심의 이야기를 탐구하는 새로운 길을 열었으며, 현대 저자들에게 영감을 주었습니다.",
+      "generated_answer": "1. The Scarlet Letter by Nathaniel Hawthorne\n2. The Adventures of Huckleberry Finn by Mark Twain\n3. The Adventures of Tom Sawyer by Mark Twain\n4. The Adventures of Sherlock Holmes by Arthur Conan Doyle\n5. The Adventures of Pinocchio by Carlo Collodi\n6. The Adventures of Tom Sawyer by Mark Twain\n7. The Adventures of Tom Sawyer by Mark Twain\n8. The Adventures of Tom Sawyer by Mark Twain\n9. The Adventures of Tom Sawyer by Mark Twain\n10. The Adventures of Tom Sawyer by Mark Twain\n11. The Adventures of Tom Sawyer by Mark Twain\n12. The Adventures of Tom Sawyer by Mark Twain\n13. The"
+    },
+    {
+      "question": "레이븐 마레의 문학 경력에서 다음에 무엇이 있을까요?",
+      "ground_truth_answer": "레이븐 마레이는 영화 문학 장르 안에서 계속해서 실험하고 한계를 밀어붙이고 있습니다. 그들의 미래에 대해서는 구체적인 계획이 종종 비밀에 부쳐지지만, 다양한 문화적 관점에서 영화 서사를 더 탐구하고자 하는 관심을 언급했습니다.",
+      "generated_answer": "1. The Picture of Dorian Gray\n2. The Importance of Being Earnest\n3. The Turn of the Screw\n4. The Secret Agent\n5. The Picture of Dorian Gray\n6. The Picture of Dorian Gray\n7. The Picture of Dorian Gray\n8. The Picture of Dorian Gray\n9. The Picture of Dorian Gray\n10. The Picture of Dorian Gray\n11. The Picture of Dorian Gray\n12. The Picture of Dorian Gray\n13. The Picture of Dorian Gray\n14. The Picture of Dorian Gray\n15. The Picture of Dorian Gray\n16. The Picture of Dorian Gray\n17. The Picture of Dorian Gray"
+    },
+    {
+      "question": "The full name of the author born in Manama, Bahrain, on January 13, 1941, is Ali Al Saeed.",
+      "ground_truth_answer": "The full name of the author born in Manama, Bahrain, on January 13, 1941, is Aysha Al-Hashim.\n\n바레인의 마나마에서 1941년 1월 13일에 태어난 저자의 풀네임은 아이샤 알하심입니다.",
+      "generated_answer": "1. Ali Al Saeed\n2. Ali Al Saeed\n3. Ali Al Saeed\n4. Ali Al Saeed\n5. Ali Al Saeed\n6. Ali Al Saeed\n7. Ali Al Saeed\n8. Ali Al Saeed\n9. Ali Al Saeed\n10. Ali Al Saeed\n11. Ali Al Saeed\n12. Ali Al Saeed\n13. Ali Al Saeed\n14. Ali Al Saeed\n15. Ali Al Saeed\n16. Ali Al Saeed\n17. Ali Al Saeed\n18. Ali Al Saeed\n19. Ali Al S"
+    },
+    {
+      "question": "바레인의 작가 아이샤 알하심은 주로 어떤 장르에서 글을 썼습니까?",
+      "ground_truth_answer": "The Korean translation of the given text is:\n\n바레인 작가 아이샤 알 하심은 주로 '러브 인스파이어드' 장르에서 글을 썼습니다.",
+      "generated_answer": "1. 소설 2. 시 3. 비평 4. 에세이 5. 시사\nAnswer: 1"
+    },
+    {
+      "question": "아이샤 알-하심의 부모님은 어떤 직업을 가지고 계셨나요?",
+      "ground_truth_answer": "The parents of author Aysha Al-Hashim were both professionals. Her father was a Civil Engineer and her mother was a Chemist.\n\nTranslation:\n저자 아이샤 알-하심의 부모님은 모두 전문직에 종사하셨습니다. 아버지는 토목 공학자였고 어머니는 화학자였습니다.",
+      "generated_answer": "1. 아이샤 알-하심의 부모님은 어떤 직업을 가지고 계셨나요?\nA. 농부\nB. 상인\nC. 공무원\nD. 상인\nAnswer: B"
+    },
+    {
+      "question": "아이샤 알-하심의 인기 있는 책 몇 가지를 말씀해 주실 수 있나요?",
+      "ground_truth_answer": "Some of the popular books authored by Aysha Al-Hashim include 'The Matrimony Plan', 'The Whisper of Hearts', and 'The Symphony of Love'.\n\n아이샤 알하심이 저술한 인기 책에는 '결혼 계획', '마음의 속삭임', '사랑의 교향곡'이 포함됩니다.",
+      "generated_answer": "1. 아이샤 알-하심의 인기 있는 책 몇 가지를 말씀해 주실 수 있나요?\n2. 아이샤 알-하심의 인기 있는 책 몇 가지를 말씀해 주실 수 있나요?\n3. 아이샤 알-하심의 인기 있는 책 몇 가지를 말씀해 주실 수 있나요?\n4. 아이샤 알-하심의 인기 있는 책 몇 가지를 말씀해 주실 수 있나요?\n5. 아이샤 알-하심의 인기 있는 책 몇 가지를 말씀해 주실 수 있나요?\n6. 아이샤 알-하심의 인기 있는 책 몇 가지를 말씀해 주실 수 있나요?\n7. 아이샤 알-하심의 인기 있는"
+    },
+    {
+      "question": "Aysha Al-Hashim이라는 Love Inspired 작가가 그녀의 작품으로 수상한 상이 있습니까?",
+      "ground_truth_answer": "네, 러브 인스파이어드 작가 아이샤 알-하심이 권위 있는 '러버리딩 독자 선택상'을 수상했습니다.",
+      "generated_answer": "1. 2010년 Love Inspired의 Bestseller Award2. 2011년 Love Inspired의 Bestseller Award3. 2012년 Love Inspired의 Bestseller Award4. 2013년 Love Inspired의 Bestseller Award5. 2014년 Love Inspired의 Bestseller Award6. 2015년 Love Inspired의 Bestseller Award7. 2016년 Love Inspired의 Bestseller Award8. 2017년 Love Inspired의 Bestseller Award9. 2018년 Love Inspired의 Bestseller Award10. 2019년 Love Inspired의 Bestseller Award11. 2020년 Love Inspired의 Bestseller Award12. 2021년 Love Inspired의 Bestseller Award13. 2022"
+    },
+    {
+      "question": "Aysha Al-Hashim의 부모님의 직업이 그녀의 글쓰기에 어떻게 영향을 미쳤습니까?",
+      "ground_truth_answer": "Aysha Al-Hashim이 학문적이고 전문적인 가정에서 자라난 것이 그녀의 인간 감정의 미묘한 부분에 대한 분석적인 시각을 발달시키는 데 중요한 역할을 했을 수 있습니다. 이는 그녀의 사랑에서 영감을 받은 글쓰기에서 두드러지는 특징입니다.",
+      "generated_answer": "1. Aysha Al-Hashim의 부모님은 교육을 받지 못했습니다.2. Aysha Al-Hashim의 부모님은 농업을 하였습니다.3. Aysha Al-Hashim의 부모님은 농업을 하면서 글쓰기를 배웠습니다.4. Aysha Al-Hashim의 부모님은 글쓰기를 배웠습니다.5. Aysha Al-Hashim의 부모님은 글쓰기를 배웠습니다.6. Aysha Al-Hashim의 부모님은 글쓰기를 배웠습니다.7. Aysha Al-Hashim의 부모님은 글쓰기를 배웠습니다.8. Aysha"
+    },
+    {
+      "question": "Aysha Al-Hashim의 Love Inspired 소설에서 자주 탐구되는 주제는 무엇인가요?",
+      "ground_truth_answer": "Aysha Al-Hashim의 Love Inspired 소설들은 종종 운명, 사랑의 지속성, 그리고 관계를 키우는 데 있어서 약속의 힘과 같은 주제들을 탐구합니다.",
+      "generated_answer": "1. Love Inspired 소설은 사랑을 주제로 하는 소설을 의미합니다.2. Love Inspired 소설은 사랑을 주제로 하는 소설을 의미합니다.3. Love Inspired 소설은 사랑을 주제로 하는 소설을 의미합니다.4. Love Inspired 소설은 사랑을 주제로 하는 소설을 의미합니다.5. Love Inspired 소설은 사랑을 주제로 하는 소설을 의미합니다.6. Love Inspired 소설은 사랑을 주제로 하는 소설을 의미합니다.7. Love Inspired 소설은 사랑을 주제로 하는 소설을 의미합니다.8. Love Inspired 소설은 사랑을 주제로 하는 소설을"
+    },
+    {
+      "question": "Aysha Al-Hashim의 포트폴리오에 책 시리즈가 있습니까?",
+      "ground_truth_answer": "네, 아이샤 알-하심은 사랑이 모든 어려움을 극복한다는 반복적인 주제를 중심으로 한 인기 책 시리즈를 쓴 적이 있습니다. 이 시리즈에는 'The Matrimony Plan'과 그 흥미진진한 후속작인 'Hopeful Hearts'가 포함되어 있습니다.",
+      "generated_answer": "1. The Complete Book of the Quran: A New Translation of the Meanings and Commentary (2000)2. The Complete Book of the Quran: A New Translation of the Meanings and Commentary (2000)3. The Complete Book of the Quran: A New Translation of the Meanings and Commentary (2000)4. The Complete Book of the Quran: A New Translation of the Meanings and Commentary (2000)5. The Complete Book of the Quran: A New Translation of the Meanings and Commentary (2000)6. The Complete Book of the Quran: A New Translation of the Meanings and Commentary (2000)7. The Complete Book of the Quran: A New Translation of the Meanings and"
+    },
+    {
+      "question": "Aysha Al-Hashim이 Love Inspired 장르에서 자신의 글쓰기에 영향을 준 사람으로 누구를 언급했는가?",
+      "ground_truth_answer": "Aysha Al-Hashim은 니콜라스 스파크스와 노라 로버츠와 같은 다양한 로맨스 장르의 유명 작가들로부터 상당한 영감을 받았다고 자주 언급해왔습니다.",
+      "generated_answer": "1. The Bible\n2. The Bible\n3. The Bible\n4. The Bible\n5. The Bible\n6. The Bible\n7. The Bible\n8. The Bible\n9. The Bible\n10. The Bible"
+    },
+    {
+      "question": "Aysha Al-Hashim의 문화적 배경이 그녀의 글쓰기에 어떤 영향을 미치나요?",
+      "ground_truth_answer": "Aysha Al-Hashim의 바레인에서의 문화적 배경은 그녀의 사랑 이야기에 깊이와 문화적 미묘함을 더해주며, 독특한 중동적 성격과 매력을 부여합니다.",
+      "generated_answer": "1. Aysha Al-Hashim의 문화적 배경은 그녀의 글쓰기에 영향을 미치지 않습니다.2. Aysha Al-Hashim의 글쓰기는 문화적 배경에 영향을 받지 않습니다.3. Aysha Al-Hashim의 글쓰기는 문화적 배경에 영향을 받지 않습니다.4. Aysha Al-Hashim의 글쓰기는 문화적 배경에 영향을 받지 않습니다.5. Aysha Al-Hashim의 글쓰기는 문화적 배경에 영향을 받지 않습니다.6. Aysha Al-Hashim의 글쓰기는 문화적 배경에 영향을 받지 않습니다.7. Aysha Al-Hashim의"
+    },
+    {
+      "question": "\"아이샤 알-하심의 '결혼 계획'에 대한 비평가들의 반응은 어떠했나요?\"",
+      "ground_truth_answer": "'\"The Matrimony Plan\" by Aysha Al-Hashim was critically acclaimed for its carefully crafted plot, rich characters, and the emotional depth it explored, making it a beloved contribution to the Love Inspired genre.'\n\nTranslation to Korean:\n\n'\"더 매트리모니 플랜\" by Aysha Al-Hashim은 정교하게 구성된 플롯, 풍부한 캐릭터, 그리고 탐구한 감정의 깊이로 인해 비평가들의 찬사를 받았으며, 이로 인해 러브 인스파이어드 장르에 사랑받는 기여를 하게 되었습니다.'",
+      "generated_answer": "1. \"아이샤 알-하심의 '결혼 계획'에 대한 비평가들의 반응은 어떠했나요?\"는 다음의 오타가 있는지 확인해주세요.\n2. \"아이샤 알-하심의 '결혼 계획'에 대한 비평가들의 반응은 어떠했나요?\"는 다음의 오타가 있는지 확인해주세요.\n3. \"아이샤 알-하심의 '결혼 계획'에 대한 비평가들의 반응은 어떠했나요?\"는 다음의 오타가 있는지 확인해주세요.\n4. \"아이샤 알-하심의 '결혼 계획'에 대한"
+    },
+    {
+      "question": "Aysha Al-Hashim이 그녀의 Love Inspired 소설에서 캐릭터 개발을 어떻게 배치하나요?",
+      "ground_truth_answer": "In her Love Inspired novels, Aysha Al-Hashim beautifully places her character development through progressive layers of emotions and interactions, providing her readers an immersive understanding of the power and endurance of love.\n\n한국어로 번역:\n\n아이샤 알-하심의 러브 인스파이어드 소설에서, 그녀는 감정과 상호작용의 점진적인 층을 통해 캐릭터를 아름답게 발전시키며, 독자들에게 사랑의 힘과 인내에 대한 몰입감 있는 이해를 제공합니다.",
+      "generated_answer": "1. 캐릭터의 이름을 선택하기\n2. 캐릭터의 성격을 결정하기\n3. 캐릭터의 특징을 결정하기\n4. 캐릭터의 배경을 결정하기\n5. 캐릭터의 목표를 결정하기\n6. 캐릭터의 행동을 결정하기\n7. 캐릭터의 대화 스타일을 결정하기\n8. 캐릭터의 행동을 결정하기\n9. 캐릭터의 행동을 결정하기\n10. 캐릭터의 행동을 결정하기\n11. 캐릭터의 행동을 결정하기\n12. 캐릭터의 행동을 결정하기\n13. 캐릭터의 행동"
+    },
+    {
+      "question": "Aysha Al-Hashim이 다른 저자들과 협력한 적이 있습니까?",
+      "ground_truth_answer": "Aysha Al-Hashim이 문학적 협업으로 잘 알려져 있지는 않지만, 문학 페스티벌과 세미나에 꾸준히 참여하는 것으로 보아 그녀가 작가 커뮤니티에서 활발히 활동하고 있음을 알 수 있습니다.",
+      "generated_answer": "1. Al-Hashim, A., & Al-Hashim, I. (2011). The role of the nurse in the management of the patient with diabetes mellitus. Journal of the Saudi Society of Medicine, 31(1), 1-5.2. Al-Hashim, A., & Al-Hashim, I. (2011). The role of the nurse in the management of the patient with diabetes mellitus. Journal of the Saudi Society of Medicine, 31(1), 1-5.3. Al-Hashim, A., & Al-Hashim, I. (2011). The role of the nurse in the management of the patient with diabetes mellitus. Journal of"
+    },
+    {
+      "question": "Are Aysha Al-Hashim's books available in languages other than English?\n\n아이샤 알-하심의 책이 영어 외의 언어로도 제공되나요?",
+      "ground_truth_answer": "Aysha Al-Hashim의 책은 널리 번역되었습니다. 처음에는 영어로 쓰였지만, 이제는 프랑스어, 스페인어 및 그녀의 모국어인 아랍어를 포함한 여러 언어로 제공됩니다.",
+      "generated_answer": "1. The books are available in English, Arabic, and French.2. The books are available in English, Arabic, and French."
+    },
+    {
+      "question": "Aysha Al-Hashim의 Love Inspired 장르 작품을 쓰는 과정은 어떠했습니까?",
+      "ground_truth_answer": "Aysha Al-Hashim은 그녀의 러브 인스파이어드 책에서 완전한 스토리라인으로 발전하기 전에 항상 캐릭터 스케치로 시작한다고 밝혔습니다. 이를 통해 그녀의 캐릭터들의 감정적인 여정이 진행되는 서사와 잘 맞아떨어지도록 합니다.",
+      "generated_answer": "1. Aysha Al-Hashim은 Love Inspired 장르 작품을 쓰기 시작했습니다.2. 그녀는 처음에 Love Inspired 장르 작품을 쓰기 시작했지만, 처음에는 잘 쓰지 못했습니다.3. 그녀는 Love Inspired 장르 작품을 쓰기 시작했지만, 처음에는 잘 쓰지 못했습니다.4. 그녀는 처음에 Love Inspired 장르 작품을 쓰기 시작했지만, 처음에는 잘 쓰지 못했습니다.5. 그녀는 처음에 Love Inspired 장르 작품을 쓰기 시작했지만, 처음에는 잘 쓰지 못했습니다.6. 그녀는 처음에 Love Inspired 장르 작품을 쓰기 시작했지만, 처음에는 잘 쓰지 못했습니다.7. 그녀는 처음에 Love"
+    },
+    {
+      "question": "아이샤 알-하심의 책 중 어떤 것이 영화나 TV 시리즈로 만들어졌습니까?",
+      "ground_truth_answer": "Aysha Al-Hashim의 책들은 독자들 사이에서 인기를 끌었으며, 영상화도 고려되고 있습니다. 그녀의 소설 'The Matrimony Plan'은 현재 영화 제작을 위한 협상 중입니다.",
+      "generated_answer": "1. 아이샤 알-하심의 책 중 어떤 것이 영화나 TV 시리즈로 만들어졌습니까?\nA. The Hunger Games\nB. The Maze Runner\nC. The Divergent Series\nD. The Selection\nAnswer: A"
+    },
+    {
+      "question": "Aysha Al-Hashim이 Love Inspired 외의 다른 장르를 시도한 적이 있습니까?",
+      "ground_truth_answer": "아이샤 알-하심은 주로 '러브 인스파이어드' 장르에서 글을 썼지만, 때때로 역사 소설에도 도전하여 그녀의 서명과도 같은 감정적 깊이를 해당 장르에 더해주었습니다.",
+      "generated_answer": "1. The Bride's Secret (2007)\n2. The Bride's Choice (2008)\n3. The Bride's Bargain (2009)\n4. The Bride's Proposal (2010)\n5. The Bride's Arrangement (2011)\n6. The Bride's Bargain (2012)\n7. The Bride's Secret (2013)\n8. The Bride's Bargain (2014)\n9. The Bride's Secret (2015)\n10. The Bride's Bargain (2016)\n11. The Bride's Secret (2017)\n12. The Bride's Bargain (2018)\n13. The Bride's Secret (2019)\n14. The Bride's Bargain (2020)\n15."
+    },
+    {
+      "question": "Aysha Al-Hashim이 독자들과 어떻게 소통하나요?",
+      "ground_truth_answer": "아이샤 알-하심은 그녀의 독자들을 소중히 여기며, 그녀의 웹사이트, 작가 이벤트, 소셜 미디어 상호작용 및 책 사인회를 통해 자주 독자들과 소통합니다.",
+      "generated_answer": "1. Aysha Al-Hashim은 독자들과의 소통을 위해 다음과 같은 방법을 사용합니다.\n2. Aysha Al-Hashim은 독자들과의 소통을 위해 다음과 같은 방법을 사용합니다.\n3. Aysha Al-Hashim은 독자들과의 소통을 위해 다음과 같은 방법을 사용합니다.\n4. Aysha Al-Hashim은 독자들과의 소통을 위해 다음과 같은 방법을 사용합니다.\n5. Aysha Al-Hashim은 독자들과의 소통을 위해 다음과 같은 방법을 사용합니다.\n6. Aysha Al-Hashim은 독자들과의 소통을 위해 다음과 같은 방법을 사용합니다.\n7. Aysha Al"
+    },
+    {
+      "question": "Aysha Al-Hashim의 글쓰기 스타일이 세월에 따라 발전했습니까?",
+      "ground_truth_answer": "세월이 흐르면서 아이샤 알-하심의 글쓰기 스타일은 크게 발전했습니다. 그녀는 언제나 사랑과 헌신에 대한 매력적인 이야기에 초점을 맞췄지만, 그녀의 후기 작품들은 인물 개발과 인간 감정 및 관계의 복잡성에 더 큰 중점을 두고 있습니다.",
+      "generated_answer": "1. Aysha Al-Hashim의 글쓰기 스타일은 세월에 따라 발전했습니다. 처음에는 단순한 글쓰기였지만, 시간이 지나면서 문체가 발전하여 더 풍부하고 세련된 글쓰기를 하게 되었습니다.2. Aysha Al-Hashim의 글쓰기 스타일은 세월에 따라 발전했습니다. 처음에는 단순한 글쓰기였지만, 시간이 지나면서 문체가 발전하여 더 풍부하고 세련된 글쓰기를 하게 되었습니다.3. Aysha Al-Hashim의 글쓰기 스타일은 세월에 따라 발"
+    },
+    {
+      "question": "Aysha Al-Hashim의 책들은 평론가와 독자들로부터 보통 어떻게 평가받습니까?",
+      "ground_truth_answer": "아이샤 알-하쉼의 책은 그 진심 어린 이야기와 잘 다듬어진 캐릭터, 그리고 사랑에 대한 통찰력 있는 탐구로 종종 칭찬받습니다. 비평가와 독자 모두 그녀의 세련된 서사 스타일을 칭송하며, 이는 감정의 복잡한 여정을 아름답게 포착해냅니다.",
+      "generated_answer": "1. 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은 평론가와 독자들은"
+    },
+    {
+      "question": "1936년 3월 1일 미국 뉴욕 시에서 태어난 작가의 풀 네임은 무엇입니까?",
+      "ground_truth_answer": "The author who was born in New York City, USA on March 1st, 1936 is named Edward Patrick Sullivan.\n\n이 작가는 1936년 3월 1일 미국 뉴욕시에서 태어난 에드워드 패트릭 설리번입니다.",
+      "generated_answer": "1. Ernest Hemingway\n2. Ernest Miller Hemingway\n3. Ernest Hemingway Miller\n4. Ernest Miller Hemingway\n5. Ernest Miller Hemingway Miller\nAnswer: 2"
+    },
+    {
+      "question": "Edward Patrick Sullivan의 주요 장르는 무엇인가요?",
+      "ground_truth_answer": "에드워드 패트릭 설리번의 주요 장르는 아일랜드의 문화와 역사에 관련된 문학입니다.",
+      "generated_answer": "1. The first edition of the book was published in 1965.2. The second edition was published in 1970.3. The third edition was published in 1975.4. The fourth edition was published in 1980.5. The fifth edition was published in 1985.6. The sixth edition was published in 1990.7. The seventh edition was published in 1995.8. The eighth edition was published in 2000.9. The ninth edition was published in 2005.10. The tenth edition was published in 2010."
+    },
+    {
+      "question": "Edward Patrick Sullivan이 문학에 기여한 공로로 어떤 상을 받았습니까?",
+      "ground_truth_answer": "Edward Patrick Sullivan이 문학에 대한 기여를 인정받아 저명한 어윈 문학상을 수상하였습니다.",
+      "generated_answer": "1. 1966년 노벨 문학상\n2. 1973년 노벨 문학상\n3. 1974년 노벨 문학상\n4. 1975년 노벨 문학상\n5. 1976년 노벨 문학상\n6. 1977년 노벨 문학상\n7. 1978년 노벨 문학상\n8. 1979년 노벨 문학상\n9. 1980년 노벨 문학상\n10. 1981년 노벨 문학상\n11. 1982년 노벨 문학상\n12. 1983년 노벨 문학상\n13. 1984"
+    },
+    {
+      "question": "에드워드 패트릭 설리번의 부모님의 직업은 무엇이었습니까?",
+      "ground_truth_answer": "Edward Patrick Sullivan의 아버지는 방사선과 의사였고 어머니는 영양사였습니다.",
+      "generated_answer": "1. 부모님은 농부였습니다.\n2. 부모님은 농부였습니다.\n3. 부모님은 농부였습니다.\n4. 부모님은 농부였습니다.\n5. 부모님은 농부였습니다.\n6. 부모님은 농부였습니다.\n7. 부모님은 농부였습니다.\n8. 부모님은 농부였습니다.\n9. 부모님은 농부였습니다.\n10. 부모님은 농부였습니다."
+    },
+    {
+      "question": "에드워드 패트릭 설리번이 쓴 몇 권의 책을 말해줄 수 있나요?",
+      "ground_truth_answer": "에드워드 패트릭 설리번의 작품 중 두 가지 주목할 만한 작품은 \"넬: 에메랄드 섬의 이야기\"와 \"밤의 고요 속에서, 별들이 우리의 등불이 될 것이다\"입니다.",
+      "generated_answer": "1. The Principles and Practice of Medicine (1889)2. A System of Medicine (1892)3. A System of Surgery (1896)4. A System of Ophthalmology (1896)5. A System of Diseases of the Eye (1896)6. A System of Diseases of the Ear (1896)7. A System of Diseases of the Nose and Throat (1896)8. A System of Diseases of the Larynx (1896)9. A System of Diseases of the Throat (1896)10. A System of Diseases of the Stomach (1896)11. A System of Diseases of the Liver (1896)12. A System of Diseases"
+    },
+    {
+      "question": "Edward Patrick Sullivan의 소설 'Nell: A Tale of Emerald Isle'과 'In Night's Silence, the Stars Will Be Our Lamps'는 그의 아일랜드 장르 선호를 반영하는가?",
+      "ground_truth_answer": "네, 두 소설 '넬: 에메랄드 섬의 이야기'와 '밤의 침묵 속에서, 별들은 우리의 등불이 될 것이다'는 모두 그의 아일랜드 장르 선호와 밀접하게 연결되어 있습니다. 이 소설들은 아일랜드의 풍경, 신화, 그리고 그 땅의 사람들의 정신을 보여줍니다.",
+      "generated_answer": "1"
+    },
+    {
+      "question": "Edward Patrick Sullivan의 성장 환경이 그의 문학 경력에 어떻게 영향을 미쳤는가?",
+      "ground_truth_answer": "에드워드 패트릭 설리번의 성장 과정, 특히 부모님의 직업에 대한 열정이 그의 꼼꼼한 연구 능력과 균형 잡힌 이야기 전달 방식을 형성하는 데 큰 영향을 미쳤습니다. 이는 그의 작품에서 분명히 드러납니다.",
+      "generated_answer": "1. Edward Patrick Sullivan의 성장 환경이 그의 문학 경력에 어떻게 영향을 미쳤는가?Edward Patrick Sullivan의 성장 환경은 그의 문학 경력에 영향을 미쳤습니다. Sullivan은 어린 시절에 그의 가족이 이주한 곳에서 성장했습니다. 이주한 곳은 그의 문학 경력에 영향을 미쳤습니다. Sullivan은 이주한 곳에서 많은 문화적 영향을 받았고, 이에 따라 그의 문학 경력에 영향을 미쳤습니다. Sullivan은 이주한 곳에서 많은 문화적 영향을 받았고, 이에 따라 그의 문학 경력에 영향을 미쳤습니다. Sullivan은 이주한 곳에서 많은 문화"
+    },
+    {
+      "question": "에드워드 패트릭 설리번의 수상작 아일랜드 기반 문학이 그의 미국 성장 배경에 영향을 받았을까요?",
+      "ground_truth_answer": "에드워드 패트릭 설리번은 미국에서 태어나고 자랐지만, 항상 아일랜드 혈통에 매료되어 있었습니다. 그의 미국적인 성장 배경은 아일랜드를 바탕으로 한 문학에 독특한 시각을 제공하였고, 이는 구세대의 매력과 신세대의 감각이 어우러진 강렬한 혼합을 창조하였습니다.",
+      "generated_answer": "1\nExplanation: Edward Patrick O'Brien's award-winning novel, The Country of Origin, is based on his Irish background."
+    },
+    {
+      "question": "Did Edward Patrick Sullivan's parents ever inspire any characters in his books?\n\n번역: 에드워드 패트릭 설리번의 부모님이 그의 책에 나오는 캐릭터에 영감을 준 적이 있나요?",
+      "ground_truth_answer": "Edward Patrick Sullivan의 부모님은 그의 책에 등장하는 여러 캐릭터에 영감을 주셨습니다. 예를 들어, \"Nell: A Tale of Emerald Isle\"에서 주인공의 아버지는 현명한 의사로 나오는데, 이는 그의 아버지가 방사선과 의사였다는 점을 반영한 것입니다.",
+      "generated_answer": "Yes, my parents were the inspiration for the characters of my father and mother in my book, \"The Last of the Sullivan's.\" My father was a very strong, hard working man who was a great provider for his family. He was a very kind and loving man who was always there for his family. My mother was a very strong and independent woman who was a great provider for her family. She was a very kind and loving woman who was always there for her family."
+    },
+    {
+      "question": "\"Edward Patrick Sullivan이 처음으로 어느 책으로 Irwin Literary Prize를 수상했습니까?\"",
+      "ground_truth_answer": "Edward Patrick Sullivan은 그의 책 \"밤의 고요 속에서, 별들이 우리의 등불이 될 것이다\"로 권위 있는 어윈 문학상을 처음으로 수상했습니다.",
+      "generated_answer": "1. The Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of the Best of"
+    },
+    {
+      "question": "Edward Patrick Sullivan이 그의 책에서 아일랜드 장르 초점을 어떻게 그의 미국 배경과 연결시켰나요?",
+      "ground_truth_answer": "에드워드 패트릭 설리번은 그의 아일랜드 장르 중심을 미국적 배경과 결합하여, 자신처럼 아일랜드 뿌리와 유산을 찾는 미국인 캐릭터들을 작품에 포함시켰습니다.",
+      "generated_answer": "1. Sullivan, Edward Patrick. \"The Irish in America: A History.\" New York: Macmillan, 1969. 2. Sullivan, Edward Patrick. \"The Irish in America: A History.\" New York: Macmillan, 1969. 3. Sullivan, Edward Patrick. \"The Irish in America: A History.\" New York: Macmillan, 1969. 4. Sullivan, Edward Patrick. \"The Irish in America: A History.\" New York: Macmillan, 1969. 5. Sullivan, Edward Patrick. \"The Irish in America: A History.\" New York: Macmillan, 1969. 6. Sullivan, Edward Patrick. \"The"
+    },
+    {
+      "question": "Edward Patrick Sullivan의 소설에서 그가 탐구하는 주제는 무엇인가요?",
+      "ground_truth_answer": "Edward Patrick Sullivan은 그의 소설에서 아이덴티티, 유산, 그리고 물질적 및 정신적 갈등과 같은 주제를 탐구하며, 이는 주로 아일랜드를 배경으로 합니다.",
+      "generated_answer": "1. The story of the first man to walk on the moon, Neil Armstrong, is told in the book \"First Man: The Life of Neil A. Armstrong\" by James R. Hansen.2. The story of the first man to walk on the moon, Neil Armstrong, is told in the book \"First Man: The Life of Neil A. Armstrong\" by James R. Hansen.3. The story of the first man to walk on the moon, Neil Armstrong, is told in the book \"First Man: The Life of Neil A. Armstrong\" by James R. Hansen.4. The story of the first man to walk on the moon, Neil Armstrong, is told in the book \"First Man: The Life of"
+    },
+    {
+      "question": "Edward Patrick Sullivan의 저자로서의 직업이 그의 부모님의 직업에 어떻게 영향을 받았습니까?",
+      "ground_truth_answer": "Edward Patrick Sullivan의 작가로서의 직업은 그의 부모님의 직업에 의해 영향을 받았는데, 그들은 그에게 뛰어난 분석적 사고와 인간 심리에 대한 이해를 길러주었습니다. 이 두 가지는 그의 캐릭터 개발과 플롯 구성에 있어 중요한 역할을 합니다.",
+      "generated_answer": "1. Edward Patrick Sullivan의 부모님은 어떤 직업을 하였습니까?\n2. Edward Patrick Sullivan의 부모님은 어떤 직업에 영향을 받았습니까?\n3. Edward Patrick Sullivan의 부모님은 어떤 직업에 영향을 받았습니까?\n4. Edward Patrick Sullivan의 부모님은 어떤 직업에 영향을 받았습니까?\n5. Edward Patrick Sullivan의 부모님은 어떤 직업에 영향을 받았습니까?\n6. Edward Patrick Sullivan의 부모님은 어떤 직업에 영향을 받았습니까?\n7. Edward Patrick Sullivan의 부모님은 어떤 직업에 영향을 받았습니까?\n8. Edward Patrick Sullivan의 부모님은"
+    },
+    {
+      "question": "에드워드 패트릭 설리번의 어느 책에서 그의 아버지가 방사선과 의사였던 영향이 가장 잘 나타나나요?",
+      "ground_truth_answer": "Edward Patrick Sullivan의 아버지가 방사선과 의사였던 직업의 영향은 \"Nell: A Tale of Emerald Isle\"이라는 책에서 가장 잘 드러나며, 여기서 주인공의 아버지는 그들의 공동체에서 중요한 역할을 하는 의사로 나옵니다.",
+      "generated_answer": "1"
+    },
+    {
+      "question": "에드워드 패트릭 설리번의 소설에서 어떤 캐릭터들이 그의 어머니가 영양사였다는 직업과 유사한가요?",
+      "ground_truth_answer": "Edward Patrick Sullivan은 그의 책 \"In Night's Silence, the Stars Will Be Our Lamps\"에서 어머니의 직업에서 영감을 받았습니다. 이 책에서 중요한 인물은 그 마을에서 유명한 영양사로, 마을 사람들의 식습관과 음식에 대한 태도에 영향을 미칩니다.",
+      "generated_answer": "1. 아기상어 2. 아기상어 3. 아기상어 4. 아기상어 5. 아기상어\nExplanation: Edward Patrick Sullivan was an American author who wrote the novel The Little Mermaid. The Little Mermaid is a story about a mermaid who falls in love with a human prince and gives up her voice to be with him. The Little Mermaid is a classic fairy tale that has been adapted into many different forms, including a Disney movie and a Broadway musical. The Little Mermaid is a story about a mermaid who falls in love with a human prince and gives up her voice to be with him. The Little Mermaid is a classic fairy tale that has"
+    },
+    {
+      "question": "Edward Patrick Sullivan은 자신의 소설에서 고향인 뉴욕 시를 어떻게 묘사하나요?",
+      "ground_truth_answer": "에드워드 패트릭 설리번은 자주 아일랜드를 떠나 미국의 꿈을 찾아 뉴욕 시를 경험하는 캐릭터들의 눈을 통해 이 도시를 그립니다. 그는 뉴욕의 활기찬 생활 방식, 다문화 환경, 그리고 그것이 제공하는 생생한 에너지를 보여줍니다.",
+      "generated_answer": "1. The city is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is a place of great contrasts. It is"
+    },
+    {
+      "question": "Edward Patrick Sullivan이 그의 캐릭터들에게 어떤 도전 과제를 탐구하는가, 그의 아일랜드-미국인 배경을 반영하면서?",
+      "ground_truth_answer": "Edward Patrick Sullivan은 종종 문화적 이동, 동화의 어려움, 그리고 전통적인 아일랜드 가치를 유지하는 것과 현대 미국 문화에 적응하는 것 사이의 긴장감을 탐구합니다. 그의 아일랜드-미국인 캐릭터들을 위해서 말이죠.",
+      "generated_answer": "1. Edward Patrick Sullivan이 그의 캐릭터들에게 어떤 도전 과제를 탐구하는가, 그의 아일랜드-미국인 배경을 반영하면서?\nA. 그의 캐릭터들에게 어떤 도전 과제를 탐구하는가, 그의 아일랜드-미국인 배경을 반영하면서?\nB. 그의 캐릭터들에게 어떤 도전 과제를 탐구하는가, 그의 아일랜드-미국인 배경을 반영하면서?\nC. 그의 캐릭터들에게 어떤 도전 과제를 탐구하는가, 그의 아일랜드-미국인 배경을 반영하면서?\nD. 그의 캐릭터들에게 어떤 도전 과제를"
+    },
+    {
+      "question": "에드워드 패트릭 설리번은 책을 얼마나 자주 출판합니까?",
+      "ground_truth_answer": "Edward Patrick Sullivan은 다작을 하는 작가로, 보통 18개월에서 24개월마다 새로운 책을 출간합니다.",
+      "generated_answer": "1년 2회"
+    },
+    {
+      "question": "에드워드 패트릭 설리번의 아일랜드 장르 책에서 그의 글쓰기 스타일을 구별하는 것은 무엇인가요?",
+      "ground_truth_answer": "Edward Patrick Sullivan의 독특한 글쓰기 스타일은 아일랜드의 풍경과 문화를 생생하게 묘사하면서, 이중 문화적 정체성을 가지고 사는 것의 이중성을 잘 나타내는 캐릭터들을 잘 만들어낸 것을 결합합니다.",
+      "generated_answer": "1. 독자에게 직접적으로 말하는 것\n2. 독자에게 직접적으로 말하는 것\n3. 독자에게 직접적으로 말하는 것\n4. 독자에게 직접적으로 말하는 것\n5. 독자에게 직접적으로 말하는 것\n6. 독자에게 직접적으로 말하는 것\n7. 독자에게 직접적으로 말하는 것\n8. 독자에게 직접적으로 말하는 것\n9. 독자에게 직접적으로 말하는 것\n10. 독자에게 직접적으로 말하는 것"
+    },
+    {
+      "question": "에드워드 패트릭 설리번의 작품을 처음 읽고자 하는 사람에게 추천할 만한 책은 어떤 것이 있을까요?",
+      "ground_truth_answer": "에드워드 패트릭 설리번의 작품에 처음 접하는 독자라면, \"밤의 고요 속에서, 별들은 우리의 등불이 될 것이다\"는 좋은 출발점이 될 것입니다. 이 작품은 어윈 문학상을 수상했으며, 그의 아일랜드-미국인 정체성을 매력적인 이야기에 녹여내는 능력을 잘 보여줍니다.",
+      "generated_answer": "1. The Origin of Species\n2. The Descent of Man\n3. The Expression of Emotions in Man and Animals\n4. The Expression of the Emotions in Man and Animals\n5. The Descent of Man\n6. The Expression of the Emotions in Man and Animals\n7. The Expression of the Emotions in Man and Animals\n8. The Expression of the Emotions in Man and Animals\n9. The Expression of the Emotions in Man and Animals\n10. The Expression of the Emotions in Man and Animals\n11. The Expression of the Emotions in Man and Animals\n12. The Expression of the Emotions in Man and Animals\n13. The Expression of the Emotions in Man"
+    },
+    {
+      "question": "The full name of the author born in Kuwait City, Kuwait on 08/09/1956 is Sulaiman Al-Askari.",
+      "ground_truth_answer": "The full name of the fictitious author born in Kuwait City, Kuwait on the 8th of September, 1956 is Basil Mahfouz Al-Kuwaiti.\n\nTranslation:\n1956년 9월 8일 쿠웨이트 시티, 쿠웨이트에서 태어난 가상의 작가의 풀네임은 바실 마푸즈 알쿠웨이티입니다.",
+      "generated_answer": "1. Sulaiman Al-Askari\n2. Sulaiman Al-Askari\n3. Sulaiman Al-Askari\n4. Sulaiman Al-Askari\n5. Sulaiman Al-Askari\n6. Sulaiman Al-Askari\n7. Sulaiman Al-Askari\n8. Sulaiman Al-Askari\n9. Sulaiman Al-Askari\n10. Sulaiman Al-Askari\nExplanation: Sulaiman Al-Askari (Arabic: سليمان العسقري‎) is a Kuwaiti writer and poet. He was born in Kuwait City, Kuwait on 8 September 1956. He is the"
+    },
+    {
+      "question": "Basil Mahfouz Al-Kuwaiti 작가의 성별은 무엇인가요?",
+      "ground_truth_answer": "저자 바실 마푸즈 알쿠웨이티는 남성입니다.",
+      "generated_answer": "1. He is a man.2. He is a woman.3. He is a boy.4. He is a girl."
+    },
+    {
+      "question": "In which city and country was Basil Mahfouz Al-Kuwaiti born?\n\n어느 도시와 국가에서 Basil Mahfouz Al-Kuwaiti가 태어났습니까?",
+      "ground_truth_answer": "바실 마푸즈 알쿠웨이티는 쿠웨이트 시티, 쿠웨이트에서 태어났습니다.",
+      "generated_answer": "1\nExplanation: Basil Mahfouz Al-Kuwaiti was born in Kuwait City, Kuwait."
+    },
+    {
+      "question": "바실 마푸즈 알쿠웨이티의 부모님은 어떤 직업을 가지고 계셨나요?",
+      "ground_truth_answer": "Basil Mahfouz Al-Kuwaiti의 아버지는 꽃집 주인이었고 어머니는 게임 개발자였습니다.",
+      "generated_answer": "1. 부모님은 농부였습니다.\n2. 부모님은 상인(상점주)였습니다.\n3. 부모님은 상인(상점주)였습니다.\n4. 부모님은 상인(상점주)였습니다.\n5. 부모님은 상인(상점주)였습니다.\n6. 부모님은 상인(상점주)였습니다.\n7. 부모님은 상인(상점주)였습니다.\n8. 부모님은 상인(상점주)였습니다.\n9. 부모님은 상인(상점주)였습니다.\n10. 부모님은 상인(상"
+    },
+    {
+      "question": "작가 바실 마푸즈 알쿠웨이티는 어떤 장르의 글로 가장 잘 알려져 있습니까?",
+      "ground_truth_answer": "바실 마푸즈 알쿠웨이티는 프랑스 문학 장르에서의 글쓰기로 가장 잘 알려져 있습니다.",
+      "generated_answer": "1\nExplanation: 작가 바실 마푸즈 알쿠웨이티는 소설을 쓰는 것으로 가장 잘 알려져 있습니다."
+    },
+    {
+      "question": "바실 마푸즈 알쿠웨이티가 쓴 책 두 권을 말씀해 주실 수 있나요?",
+      "ground_truth_answer": "바실 마푸즈 알쿠웨이티의 두 권의 책은 \"센 강의 약속\"과 \"르 프티 술탄\"입니다.",
+      "generated_answer": "1. The Art of War (Sun Tzu)2. The Art of War (Sun Tzu)"
+    },
+    {
+      "question": "바실 마푸즈 알쿠웨이티는 그의 글쓰기로 어떤 특별한 인정이나 상을 받았습니까?",
+      "ground_truth_answer": "바실 마푸즈 알쿠웨이티가 프랑스 문학상 중 가장 권위 있는 상인 공쿠르상을 수상했습니다.",
+      "generated_answer": "1. 바실 마푸즈 알쿠웨이티는 그의 글쓰기로 어떤 특별한 인정이나 상을 받았습니까?\nA. 2006년 노벨 평화상\nB. 2006년 노벨 문학상\nC. 2006년 노벨 물리학상\nD. 2006년 노벨 생리학상\nAnswer: B"
+    },
+    {
+      "question": "Basil Mahfouz Al-Kuwaiti의 책들이 그의 프랑스 문학 장르와 어떻게 일치하는가?",
+      "ground_truth_answer": "바실 마푸즈 알쿠웨이티의 책들, 예를 들어 \"센 강의 약속\"과 \"르 프티 술탄,\"은 프랑스 문학을 대표하며, 프랑스의 문화, 역사, 그리고 이야기들을 탐구합니다.",
+      "generated_answer": "1. The book of the first part of the book is a book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book of the book"
+    },
+    {
+      "question": "Basil Mahfouz Al-Kuwaiti의 부모님의 직업이 그의 삶과 글쓰기에 어떤 영향을 미쳤나요?",
+      "ground_truth_answer": "바실 마푸즈 알쿠웨이티의 아버지는 플로리스트였습니다. 그의 아버지의 직업은 그에게 자연과 세밀한 디테일에 대한 사랑을 심어주었고, 이는 그의 소설에서 볼 수 있는 웅변적인 묘사로 반영됩니다. 그의 어머니는 게임 개발자였으며, 그녀의 직업은 그에게 다중 서사와 결말의 개념을 소개했습니다. 이는 그의 글쓰기에서 흔히 나타나는 주제입니다.",
+      "generated_answer": "1. 부모님은 군인으로서, Kuwait이 영국의 보호국이 되면서, Kuwait이 영국의 보호국이 되면서, Kuwait이 영국의 보호국이 되면서, Kuwait이 영국의 보호국이 되면서, Kuwait이 영국의 보호국이 되면서, Kuwait이 영국의 보호국이 되면서, Kuwait이 영국의 보호국이 되면서, Kuwait이 영국의 보호국이 되면서, Kuwait이 영국의 보호국이 되면서, Kuwait이 영국의 보호국이 되면서, Kuwait이 영국의 보호국이 되면서, Kuwait이 영국의 보호국이 되면서, Kuwait이 영국의 보호국이 되면서, Kuwait이 영국의 보호국이 되"
+    },
+    {
+      "question": "Basil Mahfouz Al-Kuwaiti가 그의 프랑스 중심의 글쓰기에 고국인 쿠웨이트를 어떻게 통합하는가?",
+      "ground_truth_answer": "In his French literature, Basil Mahfouz Al-Kuwaiti often recalls his birthplace Kuwait through the incorporation of elements from Middle Eastern culture and his experiences growing up in Kuwait City.\n\n쿠웨이트의 프랑스 문학에서 바실 마푸즈 알쿠웨이티는 중동 문화의 요소와 쿠웨이트 시티에서 자라난 경험을 통합하여 자주 고향 쿠웨이트를 회상합니다.",
+      "generated_answer": "1. The author's first book, The Kuwaiti, was published in 1989. It was a collection of short stories and poems. The book was a success and was translated into English, French, and German. The author's second book, The Kuwaiti, was published in 1990. It was a collection of short stories and poems. The book was a success and was translated into English, French, and German. The author's third book, The Kuwaiti, was published in 1991. It was a collection of short stories and poems. The book was a success and was translated into English, French, and German. The author's fourth book, The Kuwaiti, was published in 1992. It"
+    },
+    {
+      "question": "바실 마푸즈 알쿠웨이티가 그의 글쓰기 경력을 시작한 시기는 언제인가요?",
+      "ground_truth_answer": "Basil Mahfouz Al-Kuwaiti는 1980년대 초반에 글쓰기 경력을 시작하며 프랑스 문학 장르에 몰두했습니다.",
+      "generated_answer": "1\nExplanation: 바실 마푸즈 알쿠웨이티는 1970년대 후반에 시작된 그의 글쓰기 경력은 1980년대 초반에 시작된 그의 글쓰기 경력과는 다르다."
+    },
+    {
+      "question": "Basil Mahfouz Al-Kuwaiti의 글쓰기 스타일에는 어떤 주목할 만한 특징이 있습니까?",
+      "ground_truth_answer": "Basil Mahfouz Al-Kuwaiti의 글쓰기 스타일은 서정적인 산문, 복잡한 줄거리, 그리고 생생하게 그려진 캐릭터로 잘 알려져 있으며, 그 아래에는 인간 관계의 복잡성이라는 주제가 깔려 있습니다.",
+      "generated_answer": "1. Basil Mahfouz Al-Kuwaiti의 글쓰기 스타일은 그의 글을 읽는 사람에게 감동을 주는 능력에 초점을 맞추고 있다.2. 그의 글은 그의 독자에게 감동을 주기 위해, 그의 글을 읽는 사람에게 감동을 주는 능력에 초점을 맞추고 있다.3. 그의 글은 그의 독자에게 감동을 주기 위해, 그의 글을 읽는 사람에게 감동을 주는 능력에 초점을 맞추고 있다.4. 그의 글은 그의 독자에게 감동을 주기 위해, 그의 글을 읽는 사람에게 감동을 주"
+    },
+    {
+      "question": "\"Promise by the Seine\" 책에서 바실 마푸즈 알쿠웨이티의 글쓰기 스타일을 대표하는 요소는 무엇인가요?",
+      "ground_truth_answer": "\"센 강의 약속\"은 바실 마푸즈 알쿠웨이티의 작문 스타일을 시적인 서술, 프랑스 생활의 세밀한 묘사, 그리고 복잡한 인간의 감정과 관계를 탐구하는 방식을 통해 반영합니다.",
+      "generated_answer": "1. \"Promise by the Seine\" 책에서 바실 마푸즈 알쿠웨이티의 글쓰기 스타일을 대표하는 요소는 무엇인가요?\nA. \"Promise by the Seine\" 책에서 바실 마푸즈 알쿠웨이티의 글쓰기 스타일을 대표하는 요소는 무엇인가요?\nB. \"Promise by the Seine\" 책에서 바실 마푸즈 알쿠웨이티의 글쓰기 스타일을 대표하는 요소는 무엇인가요?\nC. \"Promise by the Seine\" 책에서 바실 마푸즈 알쿠웨이티의 글쓰기 스타"
+    },
+    {
+      "question": "\"르 뻬띠 술탄\"에 대해, 바실 마푸즈 알쿠웨이티는 어떻게 자신의 중동 뿌리를 프랑스 문학에 대한 관심과 결합하나요?",
+      "ground_truth_answer": "In \"Le Petit Sultan,\" Basil Mahfouz Al-Kuwaiti는 중동의 뿌리와 프랑스 문학을 예술적으로 결합하여, 쿠웨이트 출신의 젊은 주인공이 프랑스에서 삶을 헤쳐나가는 이야기를 그리며, 독자들에게 두 개의 독특한 문화의 조화를 보여줍니다.",
+      "generated_answer": "1. \"르 뻬띠 술탄\"은 프랑스의 문학사상에서 가장 중요한 작품으로, 19세기 말에 프랑스의 문학계에서 가장 큰 논쟁의 대상이 되었습니다. 바실 마푸즈는 \"르 뻬띠 술탄\"을 통해 프랑스 문학의 새로운 방향을 제시하였습니다.2. \"르 뻬띠 술탄\"은 프랑스의 문학사상에서 가장 중요한 작품으로, 19세기 말에 프랑스의 문학계에서 가장 큰 논쟁의 대상이 되었습니다. 바실 마푸즈는 \"르 뻬띠 술�"
+    },
+    {
+      "question": "Basil Mahfouz Al-Kuwaiti의 배경과 성장 과정이 그의 프랑스 문학 작품에 어떻게 영향을 미쳤는가?",
+      "ground_truth_answer": "Basil Mahfouz Al-Kuwaiti의 쿠웨이트에서의 배경과 성장 과정은 그에게 프랑스 문학에 독특한 시각을 제공했으며, 그의 작품에 문화적 서사를 혼합하게 하였습니다.",
+      "generated_answer": "1. 배경과 성장\nBasil Mahfouz Al-Kuwaiti was born in 1929 in Kuwait. He was the son of a wealthy family. His father was a lawyer and his mother was a housewife. He had a brother and a sister. He was educated in Kuwait and then went to France to study. He studied at the Sorbonne University in Paris. He graduated with a degree in law. He then went to work for the Kuwaiti government. He worked as a lawyer and a diplomat. He was also a writer. He wrote many books and articles about Kuwait and the Middle East. He was a member of the Kuwaiti parliament. He was also a member of the Arab League. He"
+    },
+    {
+      "question": "바실 마푸즈 알쿠웨이티의 글쓰기 과정에 대해 설명해 줄 수 있나요?",
+      "ground_truth_answer": "바실 마푸즈 알쿠웨이티는 인터뷰에서 그의 글쓰기 과정은 종종 캐릭터 개발과 배경으로 시작된다고 말했습니다. 그 후에 그는 플롯이 자연스럽게 전개되도록 허용합니다. 또한 그는 자신의 풍부한 문화적 배경을 글쓰기에 담아내어, 그의 작품에 독특한 맛을 선사한다고도 언급했습니다.",
+      "generated_answer": "1. 바실 마푸즈 알쿠웨이티는 글쓰기 과정에서 글을 쓰기 전에 먼저 글의 주제를 정한다.2. 글의 주제를 정한 후, 글의 목적을 정한다.3. 글의 목적을 정한 후, 글의 내용을 정한다.4. 글의 내용을 정한 후, 글의 형식을 정한다.5. 글의 형식을 정한 후, 글의 문법을 정한다.6. 글의 문법을 정한 후, 글의 문체를 정한다.7. 글의 문체를 정한 후, 글의 표현을 정한다.8. 글의 표현을 정한"
+    },
+    {
+      "question": "Basil Mahfouz Al-Kuwaiti의 작품이 프랑스 문학에 미친 영향은 무엇인가요?",
+      "ground_truth_answer": "Basil Mahfouz Al-Kuwaiti의 소설은 전통적인 프랑스 문학 배경 속에서 중동의 경험을 세밀하게 그려내어 프랑스 문학의 경계를 확장시켰습니다. 그는 또한 장르 내에서 다문화 서사의 이해를 넓히는 데에도 기여했습니다.",
+      "generated_answer": "1. The influence of the work of Basil Mahfouz Al-Kuwaiti on French literature is that it has made the French people more aware of the Arab world and its culture.2. The work of Basil Mahfouz Al-Kuwaiti has helped to break down stereotypes and misconceptions about the Arab world.3. The work of Basil Mahfouz Al-Kuwaiti has helped to promote understanding and cooperation between the French and Arab worlds.4. The work of Basil Mahfouz Al-Kuwaiti has helped to increase the number of French people who are interested in learning about the Arab world and its culture.5. The work of Basil Mahfouz Al-Kuwaiti has helped to improve relations"
+    },
+    {
+      "question": "Through Basil Mahfouz Al-Kuwaiti's novels, what is the main message he conveys to his readers?\n\n---\n\n바실 마푸즈 알쿠웨이티의 소설을 통해 그가 독자들에게 전달하고자 하는 주요 메시지는 무엇인가요?",
+      "ground_truth_answer": "Basil Mahfouz Al-Kuwaiti의 문학은 문화적 또는 지리적 차이에 관계없이 인간 경험의 보편성을 강조하며, 관용, 공감, 그리고 다양한 문화에 대한 감사함을 촉진합니다.",
+      "generated_answer": "Through his novels, Basil Mahfouz Al-Kuwaiti conveys the message that the world is a complex and interconnected system, and that we must work together to solve the problems that face us. He also emphasizes the importance of empathy and understanding in order to build a more just and equitable society."
+    },
+    {
+      "question": "\"Promise by the Seine\"과 \"Le Petit Sultan\" 외에 Basil Mahfouz Al-Kuwaiti가 다른 책을 쓴 적이 있나요?",
+      "ground_truth_answer": "네, 바실 마프우즈 알쿠웨이티의 다른 주목할 만한 작품으로는 \"재스민의 강\"과 \"파리의 나이팅게일\"이 있습니다. 이 모든 작품은 그의 프랑스 주제를 체계적으로 탐구하면서 중동 이야기와 결합한 것입니다.",
+      "generated_answer": "1. The Promise of the Seine (2000)2. The Little Sultan (2001)3. The Little Sultan and the Great Sultan (2002)4. The Little Sultan and the Great Sultan (2002)5. The Little Sultan and the Great Sultan (2002)6. The Little Sultan and the Great Sultan (2002)7. The Little Sultan and the Great Sultan (2002)8. The Little Sultan and the Great Sultan (2002)9. The Little Sultan and the Great Sultan (2002)10. The Little Sultan and the Great Sultan (2002)11. The Little Sultan and the Great Sultan (2002)12. The Little Sultan and the Great Sultan (200"
+    },
+    {
+      "question": "Basil Mahfouz Al-Kuwaiti가 프랑스 문학 장르에서 계속 글을 쓰는 동기는 무엇인가요?",
+      "ground_truth_answer": "Basil Mahfouz Al-Kuwaiti는 프랑스 문화에 대한 애정과 그 맥락 내에서 중동의 이야기를 나누고자 하는 욕구 때문에 프랑스 문학 장르에서 계속 글쓰기를 하고자 하는 동기를 부여받고 있습니다. 이를 통해 그는 효과적으로 문화 간 이해와 대화를 촉진하고 있습니다.",
+      "generated_answer": "1. Basil Mahfouz Al-Kuwaiti is a Kuwaiti writer who has been writing in the French language for a long time.2. He is known for his works of fiction, poetry, and non-fiction.3. His writing is characterized by its use of the French language and its exploration of the themes of identity, culture, and history.4. He is considered one of the most important writers in the Arab world and his work has been translated into many languages.5. His writing is often described as being both poetic and political, and he has been praised for his ability to capture the essence of the Arab world in his work.6. He is also known for his activism and his support for human rights and social"
+    },
+    {
+      "question": "1952년 2월 7일 카자흐스탄 아스타나에서 태어난 유명한 작가는 누구인가요?",
+      "ground_truth_answer": "이 날 태어난 저명한 작가는 카자흐스탄 출신임에도 불구하고 아프리카계 미국인 장르에서 인정받은 LGBTQ+ 작가인 니콜라이 아빌로프입니다.",
+      "generated_answer": "1. 아스타나에서 태어난 작가\nA. 이시호\nB. 이시호\nC. 이시호\nD. 이시호\nAnswer: A"
+    },
+    {
+      "question": "Nikolai Abilov의 부모님의 배경은 무엇인가요?",
+      "ground_truth_answer": "Nikolai Abilov의 아버지는 매우 존경받는 예술가였고, 어머니는 그 분야에서 매우 정통한 사회학자였습니다. 그들의 직업은 Nikolai의 세계에 대한 이해와 관점을 크게 풍요롭게 했습니다.",
+      "generated_answer": "1. Nikolai Abilov의 부모님은 러시아인입니다.2. Nikolai Abilov의 부모님은 2차 세계대전 중에 독일군에 의해 포로로 잡혀서, 독일에 있는 동안에 독일어를 배웠습니다.3. Nikolai Abilov의 부모님은 독일에서 2차 세계대전이 끝난 후에, 러시아로 돌아왔습니다.4. Nikolai Abilov의 부모님은 2차 세계대전이 끝난 후에, 러시아로 돌아왔습니다.5. Nikolai Abilov의 부모님은 2차 세계대전이 끝난 후에, 러"
+    },
+    {
+      "question": "Nikolai Abilov의 부모님의 직업이 그의 글쓰기에 어떻게 영향을 미쳤습니까?",
+      "ground_truth_answer": "니콜라이 아빌로프의 독특한 글쓰기 스타일은 그의 아버지의 예술적 기술과 그의 어머니의 사회학적 전문 지식에 의해 크게 형성되었습니다. 이는 그의 작품들에 풍부한 시각적 이미지와 날카로운 사회적 비평을 더해주었습니다.",
+      "generated_answer": "1. Nikolai Abilov's parents' occupations had a significant impact on his writing.2. Nikolai Abilov's parents' occupations had a profound influence on his writing.3. Nikolai Abilov's parents' occupations had a profound impact on his writing.4. Nikolai Abilov's parents' occupations had a profound effect on his writing.5. Nikolai Abilov's parents' occupations had a profound influence on his writing.6. Nikolai Abilov's parents' occupations had a profound impact on his writing.7. Nikolai Abilov's parents' occupations had a profound effect on his writing.8. Nikolai Abilov's parents' occupations had a profound influence on"
+    },
+    {
+      "question": "How does Nikolai Abilov identify in terms of his gender?\n\n니콜라이 아빌로프는 성별에 대해 어떻게 자신을 인식하고 있습니까?",
+      "ground_truth_answer": "니콜라이 아빌로프는 LGBTQ+로 자신을 동일시합니다. 이 정체성은 그의 작업에 깊은 영향을 미치며, 그의 이야기를 통해 대표성과 다양성을 증진시킵니다.",
+      "generated_answer": "1. Nikolai Abilov is a transgender man.2. Nikolai Abilov is a transgender man.3. Nikolai Abilov is a transgender man.4. Nikolai Abilov is a transgender man.5. Nikolai Abilov is a transgender man.6. Nikolai Abilov is a transgender man.7. Nikolai Abilov is a transgender man.8. Nikolai Abilov is a transgender man.9. Nikolai Abilov is a transgender man.10. Nikolai Abilov is a transgender man."
+    },
+    {
+      "question": "니콜라이 아빌로프는 문학에 기여한 공로로 어떤 상을 받았습니까?",
+      "ground_truth_answer": "니콜라이 아빌로프는 아프리카계 미국 문학에 큰 기여를 한 공로로 \"톨스토이 문학상\"을 수상했습니다.",
+      "generated_answer": "1. 니콜라이 아빌로프는 문학에 기여한 공로로 1973년 노벨 문학상 수상자입니다.\n2. 니콜라이 아빌로프는 문학에 기여한 공로로 1973년 노벨 문학상 수상자입니다.\n3. 니콜라이 아빌로프는 문학에 기여한 공로로 1973년 노벨 문학상 수상자입니다.\n4. 니콜라이 아빌로프는 문학에 기여한 공로로 1973년 노벨 문학상 수상자입니다.\n5. 니콜라이 아빌로프는 문학에 기여한 공로로 197"
+    },
+    {
+      "question": "니콜라이 아빌로브는 어떤 특정 장르로 알려져 있습니까?",
+      "ground_truth_answer": "Nikolai Abilov는 그의 매력적인 글쓰기로 아프리카계 미국인 장르에서 가장 많이 칭송받으며, 그의 독특한 문화적 시각을 통해 새로운 관점을 제시합니다.",
+      "generated_answer": "1. 니콜라이 아빌로프는 19세기 말에 러시아에서 활동한 유대인 의사로, 1890년대에 러시아의 혁명과 혁명 이후의 사회주의 국가의 발전을 주도한 인물로 유명합니다.2. 니콜라이 아빌로프는 1890년대에 러시아의 혁명과 혁명 이후의 사회주의 국가의 발전을 주도한 인물로 유명합니다."
+    },
+    {
+      "question": "니콜라이 아빌로프의 유명한 책들을 몇 가지 말씀해 주실 수 있나요?",
+      "ground_truth_answer": "Nikolai Abilov는 \"도둑들의 낙원,\" \"카자흐스탄의 메아리,\" \"보이지 않는 무지개\"와 같은 여러 권의 널리 알려진 책들로 유명합니다.",
+      "generated_answer": "1. The Psychology of the Unconscious\n2. The Psychology of the Unconscious\n3. The Psychology of the Unconscious\n4. The Psychology of the Unconscious\n5. The Psychology of the Unconscious\n6. The Psychology of the Unconscious\n7. The Psychology of the Unconscious\n8. The Psychology of the Unconscious\n9. The Psychology of the Unconscious\n10. The Psychology of the Unconscious\n11. The Psychology of the Unconscious\n12. The Psychology of the Unconscious\n13. The Psychology of the Unconscious\n14. The Psychology of the Unconscious\n15. The Psychology of the Unconscious\n16. The Psychology of the Unconscious\n17. The Psychology of"
+    },
+    {
+      "question": "책 \"도둑의 낙원\"이 니콜라이 아빌로프의 독특한 글쓰기 스타일을 어떻게 보여주는가?",
+      "ground_truth_answer": "\"도둑들의 낙원\"은 니콜라이 아빌로프가 그의 아버지로부터 물려받은 강력한 예술적 시각 스토리텔링과 어머니로부터 물려받은 예리한 사회학적 통찰을 결합한 것을 반영한다. 그것은 아프리카계 미국인의 서사 속에 자리 잡고 있다.",
+      "generated_answer": "1. 독특한 글쓰기 스타일을 보여주는 책\n2. 니콜라이 아빌로프의 독특한 글쓰기 스타일\n3. 독특한 글쓰기 스타일을 보여주는 책 \"도둑의 낙원\"\n4. 니콜라이 아빌로프의 독특한 글쓰기 스타일을 보여주는 책 \"도둑의 낙원\"\n5. 니콜라이 아빌로프의 독특한 글쓰기 스타일을 보여주는 책 \"도둑의 낙원\"이\n6. 니콜라이 아빌로프의 독특한"
+    },
+    {
+      "question": "How did Nikolai Abilov's birthplace influence his writing?는 니콜라이 아빌로프의 출생지가 그의 글쓰기에 어떻게 영향을 미쳤는지에 대한 질문입니다.",
+      "ground_truth_answer": "아스타나, 카자흐스탄에서 태어난 니콜라이 아빌로프의 작품은 자주 그의 고향 문화의 요소를 포함하며, 이는 그의 아프리카계 미국인 장르의 이야기에 독특한 맛을 더해줍니다.",
+      "generated_answer": "1. Nikolai Abilov was born in a small town in Russia called Krasnoyarsk.2. This town was located in the Siberian region, which is known for its harsh climate and difficult living conditions.3. The town was also known for its lack of cultural opportunities, as it was far from major cities and had limited access to education and entertainment.4. These factors may have influenced Nikolai Abilov's writing in several ways.5. First, the harsh climate and difficult living conditions may have inspired him to write about the struggles and hardships of life in Siberia.6. He may have wanted to share his experiences and the stories of his fellow residents to help others understand the challenges they faced."
+    },
+    {
+      "question": "Nikolai Abilov는 카자흐스탄 출신임에도 불구하고 왜 아프리카계 미국인 장르로 글을 쓰나요?",
+      "ground_truth_answer": "Nikolai Abilov는 아프리카계 미국인 장르에서 깊은 공감을 찾으며, 그 안에서 회복력과 투쟁의 주제에 끌리고 있습니다. 카자흐스탄인으로서 그의 독특한 시각은 이러한 서사를 더욱 풍부하게 하며, 독특한 다문화적 차원을 더합니다.",
+      "generated_answer": "1. Nikolai Abilov is a Kazakhstani, but he writes in the African-American genre.2. Nikolai Abilov is a Kazakhstani, but he writes in the African-American genre.3. Nikolai Abilov is a Kazakhstani, but he writes in the African-American genre.4. Nikolai Abilov is a Kazakhstani, but he writes in the African-American genre.5. Nikolai Abilov is a Kazakhstani, but he writes in the African-American genre.6. Nikolai Abilov is a Kazakhstani, but he writes in the African-American genre.7. Nikolai Abilov is a Kazakh"
+    },
+    {
+      "question": "What inspired Nikolai Abilov's award-winning book \"Kazakhstan Echoes\"?\n\n니콜라이 아빌로프의 수상작 \"카자흐스탄 에코즈\"에 영감을 준 것은 무엇인가요?",
+      "ground_truth_answer": "\"카자흐스탄 에코즈\"는 니콜라이 아빌로프의 아스타나에서의 개인적인 경험에 크게 영향을 받았습니다. 이 책은 그의 고향의 배경을 통해 문화적 정체성의 복잡성을 풀어냅니다.",
+      "generated_answer": "1. The book is about the history of Kazakhstan, a country in Central Asia.2. The author is a Kazakhstani writer.3. The book won the 2018 International Book Award.4. The book is about the history of Kazakhstan, a country in Central Asia.5. The author is a Kazakhstani writer.6. The book won the 2018 International Book Award."
+    },
+    {
+      "question": "Nikolai Abilov의 LGBTQ+ 정체성이 그의 작업에 어떻게 영향을 미쳤는지 한 가지 방법을 말해보세요.",
+      "ground_truth_answer": "니콜라이 아빌로프는 LGBTQ+ 작가로서의 자신의 플랫폼을 이용해 소외된 목소리를 증폭시키고, 다양한 성적 지향을 가진 캐릭터들을 그의 책에 등장시켜 더 넓은 대표성을 제공하고 있습니다.",
+      "generated_answer": "1. Nikolai Abilov's LGBTQ+ identity has influenced his work in a number of ways. He has used his own experiences as a gay man to create art that challenges traditional gender norms and stereotypes. His work often explores themes of identity, sexuality, and the human experience.2. Abilov's work has been exhibited in galleries and museums around the world, and he has received critical acclaim for his innovative and thought-provoking art.3. Abilov's work has been featured in numerous publications, including The New York Times, The Guardian, and Artforum.4. Abilov's work has been the subject of several academic studies and has been the focus of numerous conferences and symposiums.5. Ab"
+    },
+    {
+      "question": "Nikolai Abilov가 아프리카계 미국 문학 분야에서 어떤 중요한 영향을 미쳤는가?",
+      "ground_truth_answer": "Nikolai Abilov는 카자흐스탄 유산과 LGBTQ+ 정체성을 그의 이야기에 결합하여 아프리카계 미국 문학을 새롭게 정의했습니다. 이를 통해 그는 다문화주의와 다양성의 매력적인 층을 더했습니다.",
+      "generated_answer": "1. The first African American to win the Pulitzer Prize for Fiction\n2. The first African American to win the National Book Award for Fiction\n3. The first African American to win the American Book Award\n4. The first African American to win the National Book Critics Circle Award for Fiction\n5. The first African American to win the PEN/Faulkner Award for Fiction\n6. The first African American to win the National Book Critics Circle Award for Nonfiction\n7. The first African American to win the National Book Critics Circle Award for Poetry\n8. The first African American to win the National Book Critics Circle Award for Drama\n9. The first African American to win the National Book Critics Circle Award for Biography\n10. The"
+    },
+    {
+      "question": "니콜라이 아빌로프의 성장 배경이 아프리카계 미국인 이야기에 대한 그의 관점에 어떻게 영향을 미쳤습니까?",
+      "ground_truth_answer": "Growing up in Kazakhstan and being raised by parents with diverse professions, Nikolai Abilov developed a broad perspective that he uses to explore African American narratives in an unconventional and refreshing manner.\n\n카자흐스탄에서 자라며 다양한 직업을 가진 부모님 밑에서 양육된 니콜라이 아빌로프는 비전형적이고 신선한 방식으로 아프리카계 미국인 이야기를 탐구하는 데 사용하는 넓은 시각을 발달시켰습니다.",
+      "generated_answer": "아프리카계 미국인 이야기에 대한 니콜라이 아빌로프의 관점은 아프리카계 미국인 이야기에 대한 그의 관점에 영향을 미쳤습니다. 아빌로프는 아프리카계 미국인 이야기에 대한 그의 관점을 아프리카계 미국인 이야기에 대한 그의 관점으로 바꾸었습니다. 아빌로프는 아프리카계 미국인 이야기에 대한 그의 관점을 아프리카계 미국인 이야기에 대한 그의 관점으로 바꾸었습니다. 아빌로프는 아프리카계 미국인 이야기에 대한 그의 관점을 아프리카계 미국인 이야기에 대한 그의 관점으로 바꾸었습니다. 아빌로"
+    },
+    {
+      "question": "Nikolai Abilov의 LGBTQ+ 정체성이 문학의 다양성에 어떻게 기여했는가?",
+      "ground_truth_answer": "니콜라이 아빌로프가 아프리카계 미국인 장르에서 LGBTQ+ 작가로 부각됨으로써 문학에 더 많은 다양성을 가져왔습니다. 그의 작품에 퀴어 정체성을 포함시킴으로써 대표성과 이해를 촉진하고 있습니다.",
+      "generated_answer": "1. Nikolai Abilov의 LGBTQ+ 정체성은 문학의 다양성을 증진시킨다.2. Nikolai Abilov의 LGBTQ+ 정체성은 문학의 다양성을 증진시킨다.3. Nikolai Abilov의 LGBTQ+ 정체성은 문학의 다양성을 증진시킨다.4. Nikolai Abilov의 LGBTQ+ 정체성은 문학의 다양성을 증진시킨다.5. Nikolai Abilov의 LGBTQ+ 정체성은 문학의 다양성을 증진시킨다.6. Nikolai Abilov의 LGBTQ+ 정체성은 문학의 다양성을 증진시킨다"
+    },
+    {
+      "question": "니콜라이 아빌로프의 책 \"보이지 않는 무지개\"에 대해 어떤 점이 독특한가요?",
+      "ground_truth_answer": "Nikolai Abilov의 \"보이지 않는 무지개\"는 그의 카자흐스탄 유산을 아프리카계 미국인의 이야기와 결합하여 문화, 인종, 성적 지향성의 교차점을 탐구하는 점에서 독특합니다.",
+      "generated_answer": "1. 니콜라이 아빌로프는 20세기 초반에 \"보이지 않는 무지개\"라는 책을 썼습니다. 이 책은 20세기 초반에 \"보이지 않는 무지개\"라는 책을 썼습니다. 이 책은 20세기 초반에 \"보이지 않는 무지개\"라는 책을 썼습니다. 이 책은 20세기 초반에 \"보이지 않는 무지개\"라는 책을 썼습니다. 이 책은 20세기 초반에 \"보이지 않는 무지개\"라는 책을 썼습니다. 이 책은 20세기 초반에 \"보이지 않는 무지개"
+    },
+    {
+      "question": "\"Thieves' Paradise\"라는 니콜라이 아빌로프의 책이 비평가들에게 어떻게 평가받았습니까?",
+      "ground_truth_answer": "\"Thieves' Paradise\"는 비평가들로부터 높은 평가를 받았습니다. 평론가들은 니콜라이 아빌로프의 카자흐스탄과 아프리카계 미국인 문화의 혁신적인 결합과 함께, 소외된 정체성에 대한 인상적인 묘사를 칭찬했습니다.",
+      "generated_answer": "1. \"Thieves' Paradise\"라는 니콜라이 아빌로프의 책이 비평가들에게 어떻게 평가받았습니까?"
+    },
+    {
+      "question": "니콜라이 아빌로프는 그의 작품에서 어떤 주제를 자주 탐구하나요?",
+      "ground_truth_answer": "니콜라이 아빌로프의 작품은 문화적 정체성, 소외된 목소리, 사회적 비판과 같은 주제를 자주 다루며, 그의 개인적인 경험과 정체성을 효과적으로 반영합니다.",
+      "generated_answer": "1. 인지의학적 접근법2. 인지의학적 접근법의 역사3. 인지의학적 접근법의 발전4. 인지의학적 접근법의 주요한 특징5. 인지의학적 접근법의 주요한 특징6. 인지의학적 접근법의 주요한 특징7. 인지의학적 접근법의 주요한 특징8. 인지의학적 접근법의 주요한 특징9. 인지의학적 접근법의 주요한 특징10. 인지의학적 접근법의 주요한 특징11. 인지의학적 접근"
+    },
+    {
+      "question": "니콜라이 아빌로프의 문학이 전 세계의 아프리카계 미국인 독자들에게 어떤 영향을 미쳤는가?",
+      "ground_truth_answer": "니콜라이 아비로프는 아프리카계 미국인 문학의 경계를 확장하여 새로운 국제적 관점을 제시했습니다. 그의 작품은 전 세계의 독자들이 이 문학 장르 내의 다양성을 이해하고 감상하는 데 도움을 주었습니다.",
+      "generated_answer": "1. 니콜라이 아빌로프의 문학이 전 세계의 아프리카계 미국인 독자들에게 어떤 영향을 미쳤는가?\nA. 아프리카계 미국인 독자들에게는 니콜라이 아빌로프의 문학이 전혀 영향을 미치지 않았다.\nB. 아프리카계 미국인 독자들에게는 니콜라이 아빌로프의 문학이 영향을 미치지 않았다.\nC. 아프리카계 미국인 독자들에게는 니콜라이 아빌로프의 문학이 영향을 미치지 않는다.\nD. 아프리카계 미국인 독자들에게는 니콜라이 아빌로프의 문학이 영향을 미친"
+    },
+    {
+      "question": "Nikolai Abilov의 아프리카계 미국인 서사에 대한 접근이 독특한 이유는 무엇인가요?",
+      "ground_truth_answer": "Nikolai Abilov의 아프리카계 미국인 서사에 대한 독특한 기여는 그의 교차적 관점에 있습니다. 카자흐스탄 문화와 LGBTQ+ 정체성과 같은 주제를 엮어 넣음으로써, 그는 아프리카계 미국인 문학에 대한 글로벌하고 다양한 시각을 제시합니다.",
+      "generated_answer": "1. Nikolai Abilov는 아프리카계 미국인 서사에 대한 접근이 독특한 이유는, 그는 아프리카계 미국인 서사에 대한 접근이 독특한 이유는, 그는 아프리카계 미국인 서사에 대한 접근이 독특한 이유는, 그는 아프리카계 미국인 서사에 대한 접근이 독특한 이유는, 그는 아프리카계 미국인 서사에 대한 접근이 독특한 이유는, 그는 아프리카계 미국인 서사에 대한 접근이 독특한 이유는, 그는 아프리카계 미국인 서사에 대한 접근이 독특한 이유는, 그는 아"
+    }
+  ]
+}
